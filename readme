@@ -1,0 +1,1 @@
+python train.py --dataset=VOC --dataset_root=/media/linc/数据2/data_set/VOC/VOCdevkit/

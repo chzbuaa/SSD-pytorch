@@ -1,0 +1,5149 @@
+
+GROUND TRUTH FOR: core_battery00001802
+label: 298.0 || 578.0 || 407.0 || 748.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7008) 304.71677 || 582.343 || 411.93228 || 747.47504
+
+GROUND TRUTH FOR: coreless_battery00004522
+label: 698.0 || 507.0 || 865.0 || 683.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003644
+label: 48.0 || 365.0 || 219.0 || 657.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004790
+label: 41.0 || 393.0 || 202.0 || 568.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9039) 92.30773 || 413.78143 || 168.99419 || 558.16504
+
+GROUND TRUTH FOR: core_battery00001309
+label: 1810.0 || 806.0 || 1992.0 || 890.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9165) 1807.1844 || 802.40533 || 1993.1438 || 896.4672
+
+GROUND TRUTH FOR: coreless_battery00005093
+label: 38.0 || 517.0 || 134.0 || 679.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9055) 31.36662 || 509.40125 || 139.4979 || 666.1955
+
+GROUND TRUTH FOR: core_battery00002047
+label: 289.0 || 385.0 || 419.0 || 618.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9475) 299.52194 || 397.5126 || 440.1911 || 611.6527
+
+GROUND TRUTH FOR: coreless_battery00003451
+label: 128.0 || 333.0 || 282.0 || 451.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00000959
+label: 843.0 || 782.0 || 1001.0 || 869.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7774) 851.74274 || 775.60315 || 1004.8154 || 877.8663
+
+GROUND TRUTH FOR: coreless_battery00004449
+label: 611.0 || 364.0 || 784.0 || 479.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7333) 539.16174 || 361.8724 || 787.9544 || 481.29294
+
+GROUND TRUTH FOR: coreless_battery00002621
+label: 247.0 || 428.0 || 439.0 || 566.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002794
+label: 1243.0 || 330.0 || 1314.0 || 462.0 || 1
+
+GROUND TRUTH FOR: core_battery00005708
+label: 362.0 || 882.0 || 465.0 || 957.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9352) 347.69125 || 882.36676 || 483.77274 || 958.03656
+
+GROUND TRUTH FOR: coreless_battery00003637
+label: 73.0 || 816.0 || 240.0 || 911.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9891) 60.948364 || 816.3317 || 248.55542 || 918.34784
+
+GROUND TRUTH FOR: coreless_battery00003028
+label: 868.0 || 576.0 || 1008.0 || 726.0 || 1
+
+GROUND TRUTH FOR: core_battery00003913
+label: 72.0 || 397.0 || 159.0 || 566.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9689) 76.8713 || 397.99435 || 151.53604 || 560.46967
+
+GROUND TRUTH FOR: core_battery00004067
+label: 586.0 || 376.0 || 700.0 || 597.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9305) 585.07227 || 391.48425 || 704.5099 || 597.587
+
+GROUND TRUTH FOR: coreless_battery00000284
+label: 264.0 || 665.0 || 342.0 || 836.0 || 1
+label: 555.0 || 670.0 || 650.0 || 801.0 || 1
+label: 865.0 || 647.0 || 1008.0 || 730.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9255) 851.00946 || 639.0961 || 1013.407 || 730.18823
+
+GROUND TRUTH FOR: coreless_battery00004333
+label: 244.0 || 365.0 || 396.0 || 445.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001673
+label: 399.0 || 492.0 || 460.0 || 593.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6790) 389.20633 || 482.6776 || 474.08942 || 577.4291
+
+GROUND TRUTH FOR: core_battery00000151
+label: 95.0 || 837.0 || 204.0 || 919.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9393) 89.257744 || 830.3112 || 212.65547 || 927.78906
+
+GROUND TRUTH FOR: coreless_battery00003810
+label: 381.0 || 327.0 || 478.0 || 518.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9653) 373.72906 || 336.3171 || 488.94708 || 525.7278
+
+GROUND TRUTH FOR: coreless_battery00005485
+label: 119.0 || 775.0 || 303.0 || 908.0 || 1
+
+GROUND TRUTH FOR: core_battery00002032
+label: 731.0 || 577.0 || 806.0 || 714.0 || 0
+label: 813.0 || 608.0 || 965.0 || 769.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7290) 806.18524 || 618.16156 || 968.552 || 752.1658
+
+GROUND TRUTH FOR: coreless_battery00005248
+label: 24.0 || 380.0 || 262.0 || 520.0 || 1
+
+GROUND TRUTH FOR: core_battery00001180
+label: 78.0 || 461.0 || 188.0 || 550.0 || 0
+label: 1014.0 || 531.0 || 1149.0 || 647.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9403) 1014.44495 || 533.88654 || 1137.6633 || 636.47766
+2 label: core score: tensor(0.6825) 64.7698 || 455.3072 || 194.68625 || 549.38916
+
+GROUND TRUTH FOR: coreless_battery00003992
+label: 294.0 || 648.0 || 400.0 || 883.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9946) 290.26532 || 667.01697 || 396.98428 || 866.923
+
+GROUND TRUTH FOR: core_battery00004986
+label: 1735.0 || 632.0 || 1801.0 || 778.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000182
+label: 234.0 || 370.0 || 400.0 || 472.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7785) 237.60585 || 367.15228 || 385.03113 || 463.92
+
+GROUND TRUTH FOR: core_battery00004832
+label: 91.0 || 470.0 || 203.0 || 558.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00004456
+label: 209.0 || 803.0 || 409.0 || 927.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6890) 197.59993 || 823.3402 || 383.15076 || 924.8492
+
+GROUND TRUTH FOR: core_battery00000394
+label: 330.0 || 508.0 || 405.0 || 657.0 || 0
+
+GROUND TRUTH FOR: core_battery00002745
+label: 152.0 || 754.0 || 269.0 || 849.0 || 0
+label: 1026.0 || 773.0 || 1185.0 || 866.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9812) 1011.91284 || 764.21686 || 1197.735 || 865.2817
+
+GROUND TRUTH FOR: coreless_battery00003298
+label: 597.0 || 348.0 || 750.0 || 447.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6701) 578.2156 || 333.15652 || 748.4717 || 440.74683
+
+GROUND TRUTH FOR: core_battery00001593
+label: 1780.0 || 349.0 || 1920.0 || 469.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001068
+label: 438.0 || 766.0 || 567.0 || 890.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7334) 415.3513 || 758.7017 || 568.0444 || 882.63446
+
+GROUND TRUTH FOR: core_battery00005151
+label: 57.0 || 409.0 || 386.0 || 926.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7539) 225.90848 || 456.1052 || 317.33517 || 572.40265
+2 label: core score: tensor(0.7223) 77.86757 || 426.71 || 198.18767 || 520.9831
+3 label: core score: tensor(0.6994) 181.31499 || 613.6967 || 308.4343 || 693.72864
+
+GROUND TRUTH FOR: coreless_battery00002622
+label: 1800.0 || 400.0 || 1926.0 || 545.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002092
+label: 126.0 || 408.0 || 300.0 || 533.0 || 1
+label: 1171.0 || 435.0 || 1278.0 || 573.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7213) 1168.6891 || 444.8679 || 1273.4639 || 566.1359
+2 label: coreless score: tensor(0.9335) 137.86913 || 418.18304 || 316.4438 || 541.7233
+
+GROUND TRUTH FOR: core_battery00005684
+label: 485.0 || 508.0 || 585.0 || 636.0 || 0
+label: 1012.0 || 520.0 || 1137.0 || 608.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002390
+label: 311.0 || 534.0 || 487.0 || 617.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9487) 317.44897 || 529.42365 || 482.6144 || 622.4125
+
+GROUND TRUTH FOR: coreless_battery00004046
+label: 83.0 || 528.0 || 288.0 || 649.0 || 1
+label: 66.0 || 654.0 || 195.0 || 811.0 || 1
+
+GROUND TRUTH FOR: core_battery00000866
+label: 57.0 || 635.0 || 131.0 || 753.0 || 0
+
+GROUND TRUTH FOR: core_battery00000058
+label: 1099.0 || 758.0 || 1259.0 || 876.0 || 0
+label: 164.0 || 455.0 || 197.0 || 619.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9360) 1080.8611 || 757.21606 || 1247.7638 || 876.35815
+
+GROUND TRUTH FOR: coreless_battery00003523
+label: 227.0 || 733.0 || 372.0 || 900.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7692) 238.32468 || 749.246 || 361.8614 || 894.3705
+
+GROUND TRUTH FOR: core_battery00004207
+label: 179.0 || 375.0 || 278.0 || 470.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9188) 170.9772 || 373.21906 || 278.29932 || 482.4313
+
+GROUND TRUTH FOR: core_battery00001254
+label: 1506.0 || 425.0 || 1650.0 || 495.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7186) 1477.2755 || 409.8959 || 1664.9799 || 492.36777
+
+GROUND TRUTH FOR: core_battery00001200
+label: 589.0 || 369.0 || 711.0 || 480.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9317) 593.5983 || 361.11145 || 689.1708 || 473.9451
+
+GROUND TRUTH FOR: coreless_battery00000109
+label: 644.0 || 459.0 || 712.0 || 641.0 || 1
+label: 1542.0 || 483.0 || 1595.0 || 557.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005711
+label: 212.0 || 366.0 || 338.0 || 538.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001862
+label: 1350.0 || 348.0 || 1442.0 || 488.0 || 1
+
+GROUND TRUTH FOR: core_battery00004474
+label: 1382.0 || 448.0 || 1507.0 || 605.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003658
+label: 1422.0 || 511.0 || 1569.0 || 734.0 || 1
+
+GROUND TRUTH FOR: core_battery00004990
+label: 649.0 || 338.0 || 828.0 || 456.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8623) 643.97015 || 349.32062 || 822.3473 || 451.589
+
+GROUND TRUTH FOR: core_battery00002637
+label: 888.0 || 436.0 || 960.0 || 560.0 || 0
+label: 1811.0 || 806.0 || 1984.0 || 950.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7838) 1818.2788 || 800.12823 || 1971.5543 || 943.8643
+
+GROUND TRUTH FOR: core_battery00004457
+label: 347.0 || 664.0 || 470.0 || 870.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7337) 355.44357 || 665.03674 || 465.01797 || 871.0477
+
+GROUND TRUTH FOR: coreless_battery00000983
+label: 80.0 || 472.0 || 268.0 || 556.0 || 1
+
+GROUND TRUTH FOR: core_battery00002122
+label: 1201.0 || 623.0 || 1281.0 || 746.0 || 0
+
+GROUND TRUTH FOR: core_battery00003245
+label: 286.0 || 369.0 || 439.0 || 514.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6418) 264.80078 || 370.80026 || 400.8935 || 518.4425
+
+GROUND TRUTH FOR: coreless_battery00001390
+label: 1677.0 || 770.0 || 1790.0 || 853.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005436
+label: 195.0 || 791.0 || 393.0 || 908.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9302) 192.63892 || 775.73364 || 391.3315 || 900.8402
+
+GROUND TRUTH FOR: coreless_battery00003197
+label: 1098.0 || 479.0 || 1253.0 || 593.0 || 1
+label: 1546.0 || 456.0 || 1703.0 || 646.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6165) 1111.3391 || 486.31927 || 1272.7122 || 584.5776
+
+GROUND TRUTH FOR: coreless_battery00002320
+label: 547.0 || 365.0 || 662.0 || 556.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004217
+label: 272.0 || 839.0 || 424.0 || 951.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6751) 270.299 || 818.97424 || 423.88226 || 953.1185
+
+GROUND TRUTH FOR: core_battery00001166
+label: 732.0 || 548.0 || 852.0 || 592.0 || 0
+
+GROUND TRUTH FOR: core_battery00003748
+label: 679.0 || 490.0 || 800.0 || 689.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9345) 683.97595 || 504.4456 || 797.1201 || 690.45746
+
+GROUND TRUTH FOR: coreless_battery00003609
+label: 154.0 || 562.0 || 252.0 || 746.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9555) 153.47989 || 566.7424 || 256.63153 || 732.37726
+
+GROUND TRUTH FOR: core_battery00005720
+label: 186.0 || 347.0 || 310.0 || 472.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9821) 190.06625 || 355.70035 || 319.2615 || 463.7904
+
+GROUND TRUTH FOR: coreless_battery00001890
+label: 230.0 || 483.0 || 332.0 || 658.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9233) 226.13286 || 494.2547 || 325.93735 || 656.93915
+
+GROUND TRUTH FOR: core_battery00003939
+label: -3.0 || 319.0 || 154.0 || 408.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003605
+label: 1008.0 || 375.0 || 1171.0 || 500.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00000683
+label: 839.0 || 519.0 || 923.0 || 639.0 || 1
+
+GROUND TRUTH FOR: core_battery00001791
+label: 204.0 || 635.0 || 363.0 || 696.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005548
+label: 952.0 || 610.0 || 1134.0 || 799.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8995) 934.61975 || 617.103 || 1144.8282 || 790.5484
+
+GROUND TRUTH FOR: core_battery00001416
+label: 251.0 || 617.0 || 379.0 || 744.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001980
+label: 1817.0 || 563.0 || 1930.0 || 724.0 || 1
+
+GROUND TRUTH FOR: core_battery00002120
+label: 83.0 || 379.0 || 201.0 || 487.0 || 0
+
+GROUND TRUTH FOR: core_battery00000236
+label: 3.0 || 550.0 || 114.0 || 660.0 || 0
+
+GROUND TRUTH FOR: core_battery00005443
+label: 931.0 || 557.0 || 1070.0 || 639.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6762) 938.44977 || 558.67725 || 1072.5873 || 635.7803
+
+GROUND TRUTH FOR: core_battery00000309
+label: 1097.0 || 694.0 || 1183.0 || 836.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005610
+label: 185.0 || 756.0 || 370.0 || 867.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9368) 203.6487 || 761.0524 || 366.7101 || 854.11456
+
+GROUND TRUTH FOR: coreless_battery00003335
+label: 1727.0 || 694.0 || 1901.0 || 812.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8183) 1715.7528 || 698.18304 || 1893.7883 || 817.0838
+
+GROUND TRUTH FOR: core_battery00004005
+label: 132.0 || 729.0 || 323.0 || 830.0 || 0
+
+GROUND TRUTH FOR: core_battery00002705
+label: 47.0 || 602.0 || 259.0 || 700.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003044
+label: 957.0 || 466.0 || 1030.0 || 582.0 || 1
+label: 947.0 || 568.0 || 1087.0 || 716.0 || 0
+
+GROUND TRUTH FOR: core_battery00003164
+label: 196.0 || 341.0 || 390.0 || 514.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6226) 223.51686 || 389.61145 || 375.41797 || 529.39453
+
+GROUND TRUTH FOR: coreless_battery00002706
+label: 868.0 || 507.0 || 995.0 || 721.0 || 1
+label: 1145.0 || 764.0 || 1348.0 || 881.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8640) 1139.1533 || 757.3534 || 1351.7332 || 886.5067
+2 label: coreless score: tensor(0.7342) 874.5267 || 523.50714 || 999.4224 || 751.52747
+
+GROUND TRUTH FOR: coreless_battery00002485
+label: 141.0 || 547.0 || 353.0 || 660.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6821) 179.35321 || 567.27155 || 328.88766 || 739.6135
+
+GROUND TRUTH FOR: core_battery00004961
+label: 490.0 || 620.0 || 631.0 || 709.0 || 0
+
+GROUND TRUTH FOR: core_battery00005220
+label: 1168.0 || 403.0 || 1271.0 || 523.0 || 0
+
+GROUND TRUTH FOR: core_battery00000922
+label: 164.0 || 412.0 || 291.0 || 495.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6151) 161.21558 || 416.72516 || 261.35776 || 497.5032
+
+GROUND TRUTH FOR: coreless_battery00000062
+label: 57.0 || 603.0 || 144.0 || 755.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9618) 44.199295 || 599.4953 || 152.3896 || 769.65106
+
+GROUND TRUTH FOR: coreless_battery00001947
+label: 523.0 || 726.0 || 674.0 || 808.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6408) 528.977 || 720.4422 || 682.05505 || 817.6984
+
+GROUND TRUTH FOR: core_battery00000962
+label: 618.0 || 607.0 || 677.0 || 811.0 || 0
+
+GROUND TRUTH FOR: core_battery00004848
+label: 1417.0 || 706.0 || 1609.0 || 838.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7544) 1422.293 || 721.18665 || 1584.0255 || 842.97046
+
+GROUND TRUTH FOR: core_battery00000929
+label: 1267.0 || 333.0 || 1318.0 || 466.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001697
+label: 340.0 || 499.0 || 368.0 || 655.0 || 1
+
+GROUND TRUTH FOR: core_battery00001350
+label: 522.0 || 863.0 || 675.0 || 933.0 || 0
+label: 851.0 || 787.0 || 974.0 || 914.0 || 0
+label: 1245.0 || 582.0 || 1284.0 || 691.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7872) 527.65656 || 862.66895 || 661.3312 || 934.4922
+
+GROUND TRUTH FOR: core_battery00002935
+label: 151.0 || 696.0 || 268.0 || 769.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000726
+label: 536.0 || 458.0 || 623.0 || 592.0 || 1
+
+GROUND TRUTH FOR: core_battery00001258
+label: 407.0 || 715.0 || 565.0 || 783.0 || 0
+label: 414.0 || 474.0 || 545.0 || 574.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8883) 408.40448 || 461.64432 || 529.9332 || 576.5672
+
+GROUND TRUTH FOR: core_battery00005782
+label: 414.0 || 339.0 || 580.0 || 435.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7465) 438.29446 || 356.39288 || 583.209 || 430.5897
+
+GROUND TRUTH FOR: core_battery00005647
+label: 671.0 || 671.0 || 805.0 || 767.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8515) 668.18134 || 678.4721 || 815.52673 || 772.8859
+
+GROUND TRUTH FOR: coreless_battery00002543
+label: 151.0 || 384.0 || 325.0 || 472.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9450) 140.31215 || 376.26938 || 329.03845 || 481.97464
+
+GROUND TRUTH FOR: core_battery00000157
+label: 55.0 || 768.0 || 125.0 || 902.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002318
+label: 54.0 || 542.0 || 252.0 || 629.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8663) 72.05271 || 530.5126 || 261.61362 || 635.533
+
+GROUND TRUTH FOR: core_battery00001095
+label: 1877.0 || 496.0 || 1994.0 || 588.0 || 0
+
+GROUND TRUTH FOR: core_battery00002541
+label: 49.0 || 660.0 || 119.0 || 824.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8566) 46.553932 || 648.81244 || 113.49565 || 841.11035
+
+GROUND TRUTH FOR: coreless_battery00005873
+label: 1886.0 || 407.0 || 1977.0 || 590.0 || 1
+
+GROUND TRUTH FOR: core_battery00000986
+label: 549.0 || 333.0 || 642.0 || 470.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9499) 550.2262 || 335.7542 || 648.6133 || 457.83475
+
+GROUND TRUTH FOR: core_battery00003916
+label: 208.0 || 719.0 || 342.0 || 836.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9089) 204.8367 || 706.5064 || 358.51532 || 840.92474
+
+GROUND TRUTH FOR: coreless_battery00000946
+label: 817.0 || 702.0 || 941.0 || 866.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005664
+label: 746.0 || 475.0 || 840.0 || 638.0 || 1
+label: 1875.0 || 457.0 || 1964.0 || 638.0 || 0
+
+GROUND TRUTH FOR: core_battery00002630
+label: 395.0 || 354.0 || 529.0 || 462.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9618) 403.1496 || 349.49374 || 527.2014 || 468.03528
+
+GROUND TRUTH FOR: coreless_battery00001717
+label: 53.0 || 466.0 || 154.0 || 622.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8235) 64.68484 || 480.89258 || 152.04263 || 625.1875
+
+GROUND TRUTH FOR: coreless_battery00001197
+label: 941.0 || 678.0 || 1048.0 || 824.0 || 1
+
+GROUND TRUTH FOR: core_battery00005330
+label: 1188.0 || 474.0 || 1341.0 || 629.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9306) 1185.6981 || 499.363 || 1329.3182 || 634.5759
+
+GROUND TRUTH FOR: coreless_battery00002029
+label: 33.0 || 729.0 || 240.0 || 818.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6198) 36.372524 || 739.5319 || 237.96863 || 831.39545
+
+GROUND TRUTH FOR: coreless_battery00005075
+label: 83.0 || 437.0 || 197.0 || 651.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9923) 81.45557 || 448.3334 || 193.93651 || 636.54297
+
+GROUND TRUTH FOR: core_battery00001184
+label: 694.0 || 497.0 || 768.0 || 669.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8189) 679.8474 || 514.76166 || 782.0306 || 690.1343
+
+GROUND TRUTH FOR: core_battery00001957
+label: 1813.0 || 828.0 || 1985.0 || 931.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9567) 1809.1548 || 806.35175 || 2007.4177 || 939.1909
+
+GROUND TRUTH FOR: core_battery00003121
+label: 615.0 || 333.0 || 773.0 || 403.0 || 0
+
+GROUND TRUTH FOR: core_battery00002086
+label: 483.0 || 507.0 || 640.0 || 613.0 || 0
+
+GROUND TRUTH FOR: core_battery00003287
+label: 247.0 || 415.0 || 431.0 || 518.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9292) 239.67606 || 421.0685 || 407.88995 || 528.0693
+
+GROUND TRUTH FOR: coreless_battery00004615
+label: 1407.0 || 729.0 || 1566.0 || 876.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8106) 1368.2979 || 753.5801 || 1566.7938 || 863.2434
+
+GROUND TRUTH FOR: core_battery00003815
+label: 968.0 || 659.0 || 1081.0 || 808.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8773) 949.5669 || 674.2052 || 1080.794 || 813.3306
+
+GROUND TRUTH FOR: core_battery00004368
+label: 804.0 || 362.0 || 976.0 || 514.0 || 0
+label: 1245.0 || 474.0 || 1385.0 || 617.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.9058) 785.9522 || 381.12186 || 980.18866 || 498.91537
+
+GROUND TRUTH FOR: coreless_battery00003988
+label: 416.0 || 488.0 || 616.0 || 599.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9657) 426.5272 || 486.97852 || 614.1488 || 586.96875
+
+GROUND TRUTH FOR: coreless_battery00005706
+label: 327.0 || 432.0 || 444.0 || 584.0 || 1
+label: 347.0 || 560.0 || 449.0 || 777.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9828) 332.7865 || 541.04956 || 451.65115 || 767.3262
+
+GROUND TRUTH FOR: core_battery00003638
+label: 379.0 || 726.0 || 536.0 || 806.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6676) 382.92978 || 735.5634 || 503.58994 || 788.2041
+
+GROUND TRUTH FOR: coreless_battery00004170
+label: 471.0 || 557.0 || 633.0 || 734.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8221) 491.58612 || 572.00977 || 620.0295 || 717.86017
+
+GROUND TRUTH FOR: core_battery00002236
+label: 266.0 || 640.0 || 427.0 || 786.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9480) 292.1405 || 642.83154 || 392.32397 || 752.2139
+
+GROUND TRUTH FOR: core_battery00001783
+label: 115.0 || 348.0 || 274.0 || 391.0 || 0
+
+GROUND TRUTH FOR: core_battery00000144
+label: 448.0 || 820.0 || 535.0 || 955.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8434) 444.12546 || 808.91113 || 533.1976 || 942.50287
+
+GROUND TRUTH FOR: core_battery00005378
+label: 530.0 || 452.0 || 666.0 || 518.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005407
+label: 1520.0 || 591.0 || 1613.0 || 783.0 || 1
+
+GROUND TRUTH FOR: core_battery00005182
+label: 73.0 || 297.0 || 224.0 || 370.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001156
+label: 1107.0 || 667.0 || 1249.0 || 827.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001996
+label: 84.0 || 592.0 || 267.0 || 702.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8323) 70.258026 || 603.4569 || 248.72485 || 700.03577
+
+GROUND TRUTH FOR: coreless_battery00001397
+label: 61.0 || 703.0 || 159.0 || 860.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9312) 55.695366 || 709.5186 || 160.38898 || 866.5672
+
+GROUND TRUTH FOR: core_battery00001748
+label: 445.0 || 515.0 || 499.0 || 610.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6961) 441.7866 || 515.6018 || 494.83847 || 627.6237
+
+GROUND TRUTH FOR: coreless_battery00000801
+label: 945.0 || 398.0 || 1045.0 || 585.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003127
+label: 211.0 || 624.0 || 406.0 || 743.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9449) 209.3274 || 635.1571 || 392.0381 || 754.09314
+
+GROUND TRUTH FOR: coreless_battery00001343
+label: 949.0 || 414.0 || 1152.0 || 490.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.6316) 67.34004 || 600.8875 || 184.80246 || 846.6086
+2 label: coreless score: tensor(0.9316) 973.6096 || 415.172 || 1147.6998 || 509.29892
+
+GROUND TRUTH FOR: coreless_battery00001451
+label: 681.0 || 643.0 || 825.0 || 784.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9048) 673.92206 || 646.2594 || 810.74207 || 765.24725
+
+GROUND TRUTH FOR: core_battery00005511
+label: 304.0 || 444.0 || 418.0 || 624.0 || 0
+label: 1819.0 || 404.0 || 1890.0 || 609.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001911
+label: 252.0 || 737.0 || 350.0 || 926.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7341) 256.1963 || 720.7504 || 352.65677 || 920.3103
+
+GROUND TRUTH FOR: core_battery00002518
+label: 1236.0 || 752.0 || 1355.0 || 855.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6733) 1234.8173 || 756.6054 || 1385.0991 || 861.06805
+
+GROUND TRUTH FOR: core_battery00004371
+label: 796.0 || 641.0 || 1008.0 || 869.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8359) 792.3712 || 646.9266 || 967.93115 || 852.9905
+2 label: core score: tensor(0.6123) 1911.0044 || 709.6613 || 2009.4259 || 814.00336
+
+GROUND TRUTH FOR: core_battery00004158
+label: 955.0 || 573.0 || 1026.0 || 722.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000883
+label: 442.0 || 377.0 || 596.0 || 452.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8777) 449.40533 || 359.4577 || 632.27686 || 448.47656
+
+GROUND TRUTH FOR: core_battery00002433
+label: 59.0 || 649.0 || 183.0 || 744.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9012) 59.19647 || 637.3242 || 178.95723 || 750.8371
+
+GROUND TRUTH FOR: coreless_battery00004291
+label: 318.0 || 460.0 || 539.0 || 570.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9541) 344.73563 || 461.74933 || 529.87537 || 570.83264
+
+GROUND TRUTH FOR: coreless_battery00005584
+label: 608.0 || 727.0 || 833.0 || 847.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8833) 597.40497 || 739.8905 || 823.0165 || 854.69965
+
+GROUND TRUTH FOR: coreless_battery00003917
+label: 554.0 || 736.0 || 625.0 || 882.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7516) 537.64374 || 714.30536 || 630.6046 || 883.22577
+
+GROUND TRUTH FOR: core_battery00004496
+label: 925.0 || 650.0 || 1135.0 || 738.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8094) 923.3427 || 648.1204 || 1133.3323 || 742.27014
+
+GROUND TRUTH FOR: core_battery00002431
+label: 537.0 || 554.0 || 635.0 || 672.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00004667
+label: 307.0 || 299.0 || 494.0 || 458.0 || 1
+
+GROUND TRUTH FOR: core_battery00000121
+label: 865.0 || 502.0 || 963.0 || 646.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6846) 836.2163 || 497.7291 || 974.87067 || 645.65497
+
+GROUND TRUTH FOR: coreless_battery00004735
+label: 1470.0 || 381.0 || 1581.0 || 568.0 || 1
+
+GROUND TRUTH FOR: core_battery00005786
+label: 255.0 || 352.0 || 397.0 || 471.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7978) 261.40405 || 343.7531 || 410.12863 || 459.73654
+
+GROUND TRUTH FOR: coreless_battery00001392
+label: 149.0 || 656.0 || 298.0 || 841.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9710) 155.48244 || 681.7502 || 270.68542 || 863.9557
+
+GROUND TRUTH FOR: coreless_battery00002761
+label: 1189.0 || 842.0 || 1382.0 || 951.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9256) 1183.3474 || 840.35266 || 1372.04 || 949.8267
+
+GROUND TRUTH FOR: coreless_battery00005597
+label: 180.0 || 420.0 || 292.0 || 608.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6002) 192.70068 || 449.23865 || 289.97983 || 599.64
+
+GROUND TRUTH FOR: coreless_battery00001520
+label: 239.0 || 556.0 || 346.0 || 744.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7897) 251.71101 || 595.9048 || 332.27808 || 750.86725
+
+GROUND TRUTH FOR: core_battery00000385
+label: 117.0 || 485.0 || 225.0 || 581.0 || 0
+
+GROUND TRUTH FOR: core_battery00003641
+label: 109.0 || 582.0 || 251.0 || 642.0 || 0
+label: 499.0 || 705.0 || 678.0 || 791.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.6490) 110.61639 || 570.10065 || 249.89627 || 653.5209
+2 label: coreless score: tensor(0.8986) 476.94534 || 703.7097 || 683.00616 || 799.6705
+
+GROUND TRUTH FOR: coreless_battery00000867
+label: 57.0 || 690.0 || 122.0 || 879.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7224) 38.8867 || 678.90967 || 144.62907 || 879.1576
+
+GROUND TRUTH FOR: core_battery00004887
+label: 524.0 || 782.0 || 691.0 || 928.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8476) 524.41235 || 784.869 || 681.0403 || 909.05676
+
+GROUND TRUTH FOR: coreless_battery00004030
+label: 111.0 || 427.0 || 274.0 || 570.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7876) 105.397675 || 431.1925 || 265.22388 || 534.13354
+
+GROUND TRUTH FOR: core_battery00001395
+label: 1277.0 || 382.0 || 1460.0 || 451.0 || 0
+label: 1769.0 || 746.0 || 1903.0 || 831.0 || 1
+
+GROUND TRUTH FOR: core_battery00000123
+label: 124.0 || 533.0 || 211.0 || 603.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6103) 143.60358 || 501.0199 || 221.71947 || 594.295
+
+GROUND TRUTH FOR: core_battery00004574
+label: 257.0 || 357.0 || 358.0 || 470.0 || 0
+
+GROUND TRUTH FOR: core_battery00001399
+label: 641.0 || 367.0 || 841.0 || 465.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9764) 647.0798 || 362.1399 || 840.6308 || 465.5532
+
+GROUND TRUTH FOR: core_battery00004410
+label: 116.0 || 662.0 || 284.0 || 777.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003734
+label: 477.0 || 676.0 || 564.0 || 840.0 || 1
+
+GROUND TRUTH FOR: core_battery00004345
+label: 124.0 || 336.0 || 240.0 || 406.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6010) 141.65387 || 343.78098 || 267.07663 || 414.9895
+
+GROUND TRUTH FOR: coreless_battery00005237
+label: 492.0 || 413.0 || 739.0 || 550.0 || 1
+label: 742.0 || 605.0 || 809.0 || 728.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6906) 725.50494 || 612.36304 || 816.67816 || 733.6388
+2 label: core score: tensor(0.6490) 187.2514 || 544.9675 || 329.59265 || 682.14746
+3 label: coreless score: tensor(0.7513) 506.32416 || 432.45026 || 684.0261 || 540.7533
+
+GROUND TRUTH FOR: core_battery00001507
+label: 779.0 || 758.0 || 826.0 || 910.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000879
+label: -2.0 || 626.0 || 62.0 || 768.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003590
+label: 1216.0 || 406.0 || 1357.0 || 609.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001133
+label: 297.0 || 806.0 || 442.0 || 890.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7376) 268.1988 || 750.2307 || 450.2342 || 900.0851
+
+GROUND TRUTH FOR: coreless_battery00001577
+label: 1029.0 || 512.0 || 1181.0 || 711.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6973) 1018.41754 || 508.67236 || 1180.2675 || 692.32794
+
+GROUND TRUTH FOR: core_battery00004167
+label: 155.0 || 565.0 || 276.0 || 740.0 || 0
+
+GROUND TRUTH FOR: core_battery00004292
+label: 439.0 || 543.0 || 553.0 || 654.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7655) 434.06473 || 543.32513 || 545.259 || 647.54895
+
+GROUND TRUTH FOR: coreless_battery00002423
+label: 979.0 || 373.0 || 1118.0 || 459.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8381) 940.46564 || 339.68246 || 1144.5396 || 450.5632
+
+GROUND TRUTH FOR: core_battery00001236
+label: 62.0 || 627.0 || 218.0 || 725.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8643) 78.79984 || 623.6239 || 202.58676 || 727.0363
+
+GROUND TRUTH FOR: coreless_battery00002542
+label: 91.0 || 525.0 || 224.0 || 700.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9647) 96.27724 || 539.35004 || 214.93375 || 723.47815
+
+GROUND TRUTH FOR: core_battery00002343
+label: 194.0 || 419.0 || 303.0 || 536.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9108) 182.97327 || 414.2248 || 294.9496 || 545.28375
+2 label: core score: tensor(0.7406) 969.80695 || 495.4336 || 1098.4688 || 741.20404
+
+GROUND TRUTH FOR: core_battery00003214
+label: 312.0 || 691.0 || 463.0 || 836.0 || 0
+
+GROUND TRUTH FOR: core_battery00004138
+label: 242.0 || 512.0 || 428.0 || 622.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8177) 226.57239 || 515.5994 || 436.64813 || 632.5153
+
+GROUND TRUTH FOR: coreless_battery00002854
+label: 153.0 || 458.0 || 241.0 || 615.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6747) 126.25992 || 468.74158 || 232.893 || 622.5709
+
+GROUND TRUTH FOR: coreless_battery00004956
+label: 117.0 || 435.0 || 270.0 || 651.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7352) 139.89404 || 477.3476 || 267.22833 || 651.8893
+
+GROUND TRUTH FOR: core_battery00003420
+label: 376.0 || 554.0 || 418.0 || 655.0 || 0
+
+GROUND TRUTH FOR: core_battery00000296
+label: 930.0 || 366.0 || 1040.0 || 449.0 || 0
+
+GROUND TRUTH FOR: core_battery00001710
+label: 780.0 || 379.0 || 865.0 || 468.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005219
+label: 462.0 || 810.0 || 652.0 || 914.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9516) 434.9068 || 814.1187 || 634.6675 || 919.2554
+
+GROUND TRUTH FOR: coreless_battery00005244
+label: 97.0 || 591.0 || 312.0 || 753.0 || 1
+
+GROUND TRUTH FOR: core_battery00000902
+label: 1004.0 || 816.0 || 1108.0 || 899.0 || 0
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6536) 1887.2352 || 584.9731 || 2005.1152 || 669.6394
+
+GROUND TRUTH FOR: coreless_battery00005350
+label: 486.0 || 540.0 || 636.0 || 649.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8628) 484.77393 || 544.5535 || 626.9938 || 650.5319
+
+GROUND TRUTH FOR: coreless_battery00002168
+label: 564.0 || 743.0 || 748.0 || 857.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9549) 554.2241 || 755.98584 || 726.12177 || 865.7879
+
+GROUND TRUTH FOR: core_battery00005831
+label: 1092.0 || 623.0 || 1236.0 || 751.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6602) 1080.7294 || 623.8592 || 1220.8041 || 749.9267
+
+GROUND TRUTH FOR: coreless_battery00003816
+label: 756.0 || 655.0 || 948.0 || 737.0 || 1
+label: 1095.0 || 588.0 || 1277.0 || 722.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8895) 1105.9716 || 587.9659 || 1282.6869 || 713.28455
+
+GROUND TRUTH FOR: coreless_battery00004035
+label: 1495.0 || 563.0 || 1637.0 || 715.0 || 1
+
+GROUND TRUTH FOR: core_battery00002414
+label: 285.0 || 598.0 || 411.0 || 762.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000950
+label: 270.0 || 440.0 || 364.0 || 562.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003344
+label: 129.0 || 591.0 || 323.0 || 685.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9798) 132.93349 || 583.2169 || 317.5226 || 687.7104
+
+GROUND TRUTH FOR: core_battery00005727
+label: 1350.0 || 416.0 || 1538.0 || 533.0 || 0
+
+GROUND TRUTH FOR: core_battery00005476
+label: 121.0 || 355.0 || 244.0 || 464.0 || 0
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7637) 122.79694 || 372.4431 || 252.91249 || 475.91312
+
+GROUND TRUTH FOR: coreless_battery00001732
+label: 606.0 || 635.0 || 767.0 || 749.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8474) 604.2295 || 644.335 || 774.493 || 732.41187
+
+GROUND TRUTH FOR: coreless_battery00002284
+label: 1069.0 || 574.0 || 1263.0 || 717.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004071
+label: 404.0 || 605.0 || 589.0 || 712.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8969) 407.0032 || 602.54553 || 601.6293 || 703.5305
+
+GROUND TRUTH FOR: core_battery00003446
+label: 473.0 || 715.0 || 652.0 || 817.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7668) 469.2627 || 722.84125 || 629.61273 || 826.09106
+
+GROUND TRUTH FOR: core_battery00004654
+label: 89.0 || 340.0 || 242.0 || 483.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9234) 109.1829 || 345.70563 || 215.30055 || 457.0051
+
+GROUND TRUTH FOR: core_battery00000567
+label: 504.0 || 720.0 || 658.0 || 874.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9570) 488.49316 || 715.94257 || 662.2954 || 884.24896
+
+GROUND TRUTH FOR: coreless_battery00002720
+label: 1645.0 || 478.0 || 1788.0 || 572.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7359) 1618.8777 || 479.66504 || 1817.5043 || 567.00397
+
+GROUND TRUTH FOR: coreless_battery00001106
+label: 72.0 || 503.0 || 178.0 || 637.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9913) 59.10562 || 508.50455 || 190.67795 || 643.4048
+
+GROUND TRUTH FOR: core_battery00004225
+label: 269.0 || 537.0 || 370.0 || 708.0 || 0
+
+GROUND TRUTH FOR: core_battery00004145
+label: 937.0 || 394.0 || 1086.0 || 487.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003572
+label: 1299.0 || 354.0 || 1435.0 || 495.0 || 1
+
+GROUND TRUTH FOR: core_battery00001264
+label: 116.0 || 613.0 || 229.0 || 775.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8715) 107.39319 || 619.3021 || 228.79633 || 774.1158
+
+GROUND TRUTH FOR: core_battery00001049
+label: 670.0 || 454.0 || 793.0 || 560.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8929) 679.6618 || 458.44107 || 787.5165 || 569.6931
+
+GROUND TRUTH FOR: coreless_battery00002202
+label: 106.0 || 466.0 || 280.0 || 583.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9201) 111.26893 || 472.4771 || 273.45618 || 578.84106
+
+GROUND TRUTH FOR: core_battery00003279
+label: 206.0 || 382.0 || 327.0 || 486.0 || 0
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6021) 180.92262 || 384.25653 || 349.83456 || 479.9923
+
+GROUND TRUTH FOR: coreless_battery00001317
+label: 344.0 || 609.0 || 462.0 || 739.0 || 1
+
+GROUND TRUTH FOR: core_battery00000915
+label: 25.0 || 455.0 || 106.0 || 534.0 || 0
+
+GROUND TRUTH FOR: core_battery00000287
+label: 311.0 || 393.0 || 353.0 || 503.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005346
+label: 311.0 || 485.0 || 477.0 || 595.0 || 1
+
+GROUND TRUTH FOR: core_battery00005031
+label: 218.0 || 416.0 || 420.0 || 499.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005914
+label: 138.0 || 483.0 || 269.0 || 657.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8905) 149.77713 || 500.6467 || 249.17706 || 631.3143
+
+GROUND TRUTH FOR: core_battery00003082
+label: 1153.0 || 388.0 || 1268.0 || 488.0 || 0
+label: 1274.0 || 728.0 || 1392.0 || 822.0 || 0
+label: 1094.0 || 665.0 || 1275.0 || 756.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.7042) 1264.2268 || 714.1665 || 1398.3771 || 820.23773
+2 label: coreless score: tensor(0.6147) 1096.5759 || 671.4975 || 1285.1455 || 777.5616
+
+GROUND TRUTH FOR: core_battery00000681
+label: 1568.0 || 787.0 || 1718.0 || 907.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8183) 1593.93 || 779.03766 || 1721.844 || 915.1027
+
+GROUND TRUTH FOR: coreless_battery00003543
+label: 639.0 || 728.0 || 809.0 || 825.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001883
+label: 1625.0 || 526.0 || 1693.0 || 664.0 || 1
+
+GROUND TRUTH FOR: core_battery00005180
+label: 333.0 || 347.0 || 409.0 || 512.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8274) 324.22958 || 363.3554 || 407.51984 || 502.76813
+
+GROUND TRUTH FOR: core_battery00001663
+label: 485.0 || 643.0 || 593.0 || 706.0 || 0
+
+GROUND TRUTH FOR: core_battery00002002
+label: 141.0 || 691.0 || 235.0 || 801.0 || 0
+
+GROUND TRUTH FOR: core_battery00005503
+label: 125.0 || 695.0 || 318.0 || 866.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7349) 122.36485 || 701.231 || 279.1752 || 882.2869
+
+GROUND TRUTH FOR: core_battery00004782
+label: 68.0 || 481.0 || 189.0 || 662.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9604) 74.92397 || 505.38428 || 169.68422 || 641.8279
+
+GROUND TRUTH FOR: core_battery00001205
+label: 637.0 || 645.0 || 779.0 || 841.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7382) 645.8187 || 677.77 || 768.19556 || 847.15466
+
+GROUND TRUTH FOR: core_battery00000458
+label: 302.0 || 789.0 || 407.0 || 892.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8581) 309.99377 || 795.5089 || 406.94962 || 896.476
+
+GROUND TRUTH FOR: coreless_battery00000269
+label: 459.0 || 607.0 || 540.0 || 743.0 || 1
+
+GROUND TRUTH FOR: core_battery00005257
+label: 354.0 || 380.0 || 496.0 || 577.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9527) 363.91168 || 385.72614 || 480.91852 || 551.8899
+
+GROUND TRUTH FOR: core_battery00003354
+label: 397.0 || 295.0 || 549.0 || 431.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6223) 396.411 || 308.8772 || 562.34863 || 442.5713
+
+GROUND TRUTH FOR: coreless_battery00002014
+label: 481.0 || 738.0 || 651.0 || 846.0 || 1
+
+GROUND TRUTH FOR: core_battery00003908
+label: 154.0 || 531.0 || 219.0 || 598.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000754
+label: 238.0 || 683.0 || 329.0 || 773.0 || 1
+
+GROUND TRUTH FOR: core_battery00003777
+label: 1193.0 || 451.0 || 1276.0 || 562.0 || 0
+label: 1648.0 || 349.0 || 1810.0 || 462.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8510) 1634.9086 || 341.17328 || 1827.1736 || 458.13104
+
+GROUND TRUTH FOR: coreless_battery00001016
+label: 189.0 || 719.0 || 319.0 || 911.0 || 1
+
+GROUND TRUTH FOR: core_battery00002481
+label: 517.0 || 404.0 || 658.0 || 488.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002405
+label: 1009.0 || 435.0 || 1187.0 || 588.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8901) 1005.62683 || 428.6159 || 1180.0251 || 594.1492
+
+GROUND TRUTH FOR: coreless_battery00004928
+label: 1502.0 || 350.0 || 1682.0 || 478.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002486
+label: 85.0 || 393.0 || 281.0 || 451.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7340) 92.03634 || 376.1437 || 280.57635 || 462.9051
+
+GROUND TRUTH FOR: coreless_battery00004339
+label: 107.0 || 577.0 || 228.0 || 751.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9533) 104.5951 || 568.02747 || 212.09454 || 762.26154
+
+GROUND TRUTH FOR: core_battery00005167
+label: 177.0 || 424.0 || 318.0 || 590.0 || 0
+label: 1511.0 || 612.0 || 1634.0 || 710.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003863
+label: 98.0 || 440.0 || 202.0 || 586.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001513
+label: 141.0 || 546.0 || 265.0 || 673.0 || 1
+
+GROUND TRUTH FOR: core_battery00003615
+label: 1067.0 || 352.0 || 1238.0 || 454.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001043
+label: 433.0 || 582.0 || 553.0 || 699.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9866) 423.8381 || 580.15686 || 542.0442 || 693.5785
+
+GROUND TRUTH FOR: coreless_battery00003652
+label: 683.0 || 799.0 || 905.0 || 935.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9475) 683.16046 || 797.9641 || 897.595 || 925.3043
+
+GROUND TRUTH FOR: coreless_battery00003394
+label: 328.0 || 395.0 || 446.0 || 521.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002918
+label: 592.0 || 371.0 || 701.0 || 487.0 || 1
+label: 1577.0 || 350.0 || 1651.0 || 462.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002174
+label: 1155.0 || 657.0 || 1304.0 || 801.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6794) 1148.951 || 648.5921 || 1298.8197 || 803.0514
+
+GROUND TRUTH FOR: coreless_battery00000317
+label: 409.0 || 597.0 || 482.0 || 761.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9919) 392.2964 || 590.2883 || 496.37564 || 772.0744
+
+GROUND TRUTH FOR: coreless_battery00004420
+label: 327.0 || 547.0 || 436.0 || 747.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9056) 327.94693 || 554.56464 || 443.5172 || 736.10345
+
+GROUND TRUTH FOR: coreless_battery00001924
+label: 1686.0 || 802.0 || 1848.0 || 906.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004877
+label: 100.0 || 723.0 || 339.0 || 889.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7468) 108.338394 || 731.2057 || 300.52927 || 866.8178
+
+GROUND TRUTH FOR: coreless_battery00005017
+label: 306.0 || 686.0 || 473.0 || 826.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9199) 284.19858 || 693.96063 || 457.78485 || 808.0275
+
+GROUND TRUTH FOR: core_battery00004672
+label: 1172.0 || 683.0 || 1341.0 || 800.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9503) 1142.5859 || 709.5461 || 1360.256 || 818.8299
+
+GROUND TRUTH FOR: core_battery00005080
+label: 259.0 || 352.0 || 379.0 || 473.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005938
+label: 415.0 || 823.0 || 581.0 || 964.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9043) 417.45663 || 829.3232 || 583.59595 || 949.46344
+
+GROUND TRUTH FOR: core_battery00005366
+label: 494.0 || 616.0 || 589.0 || 801.0 || 0
+
+GROUND TRUTH FOR: core_battery00006028
+label: 534.0 || 585.0 || 664.0 || 738.0 || 0
+
+GROUND TRUTH FOR: core_battery00005594
+label: 1466.0 || 674.0 || 1546.0 || 844.0 || 0
+label: 161.0 || 507.0 || 256.0 || 718.0 || 0
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8508) 1826.3888 || 376.78214 || 1996.4089 || 516.10266
+
+GROUND TRUTH FOR: core_battery00000475
+label: 73.0 || 737.0 || 199.0 || 867.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9728) 71.30424 || 751.2769 || 177.47578 || 854.1554
+
+GROUND TRUTH FOR: core_battery00006010
+label: 156.0 || 433.0 || 373.0 || 590.0 || 0
+
+GROUND TRUTH FOR: core_battery00002724
+label: 135.0 || 689.0 || 226.0 || 768.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002189
+label: 305.0 || 654.0 || 435.0 || 814.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9817) 299.7559 || 641.2893 || 419.80502 || 838.08514
+
+GROUND TRUTH FOR: core_battery00003812
+label: 1455.0 || 368.0 || 1517.0 || 534.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005623
+label: 607.0 || 600.0 || 710.0 || 748.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9024) 615.19495 || 607.99414 || 713.00836 || 750.17
+
+GROUND TRUTH FOR: coreless_battery00001347
+label: 607.0 || 481.0 || 751.0 || 582.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6452) 587.5333 || 462.1365 || 752.2778 || 598.5412
+
+GROUND TRUTH FOR: coreless_battery00004275
+label: 168.0 || 376.0 || 357.0 || 493.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8352) 178.76204 || 380.56528 || 333.11868 || 483.6447
+
+GROUND TRUTH FOR: core_battery00000443
+label: 640.0 || 809.0 || 790.0 || 925.0 || 0
+label: 1093.0 || 645.0 || 1159.0 || 794.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.9306) 620.1694 || 805.2444 || 791.4427 || 928.7136
+
+GROUND TRUTH FOR: coreless_battery00005435
+label: 184.0 || 394.0 || 375.0 || 496.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003968
+label: 341.0 || 406.0 || 511.0 || 488.0 || 1
+
+GROUND TRUTH FOR: core_battery00002263
+label: 1162.0 || 418.0 || 1262.0 || 534.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000894
+label: 840.0 || 413.0 || 914.0 || 585.0 || 1
+
+GROUND TRUTH FOR: core_battery00003057
+label: 1001.0 || 557.0 || 1099.0 || 752.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003881
+label: 79.0 || 478.0 || 144.0 || 671.0 || 1
+
+GROUND TRUTH FOR: core_battery00000258
+label: 161.0 || 338.0 || 290.0 || 498.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8814) 145.98587 || 334.16672 || 295.15292 || 490.98993
+
+GROUND TRUTH FOR: core_battery00003849
+label: 141.0 || 774.0 || 293.0 || 874.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9085) 144.7843 || 761.64886 || 290.7343 || 873.0532
+
+GROUND TRUTH FOR: coreless_battery00005743
+label: 679.0 || 781.0 || 871.0 || 922.0 || 1
+label: 1282.0 || 521.0 || 1394.0 || 715.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9236) 674.10095 || 809.1729 || 871.843 || 905.6038
+
+GROUND TRUTH FOR: core_battery00004764
+label: 1598.0 || 358.0 || 1775.0 || 520.0 || 0
+
+GROUND TRUTH FOR: core_battery00002314
+label: 300.0 || 510.0 || 389.0 || 690.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9141) 291.332 || 512.40247 || 380.94794 || 692.4013
+
+GROUND TRUTH FOR: coreless_battery00003240
+label: 823.0 || 735.0 || 1035.0 || 849.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8838) 825.16327 || 739.68713 || 1027.0364 || 842.9053
+
+GROUND TRUTH FOR: coreless_battery00003723
+label: 177.0 || 316.0 || 381.0 || 421.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9568) 199.27107 || 327.66666 || 390.6857 || 420.63477
+
+GROUND TRUTH FOR: core_battery00000465
+label: 990.0 || 513.0 || 1111.0 || 573.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005039
+label: 128.0 || 680.0 || 306.0 || 775.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004517
+label: 1167.0 || 454.0 || 1362.0 || 553.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8459) 1176.4744 || 457.81418 || 1332.8362 || 553.1991
+
+GROUND TRUTH FOR: core_battery00004649
+label: 404.0 || 449.0 || 561.0 || 585.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9848) 395.4176 || 463.70914 || 540.94366 || 591.47815
+
+GROUND TRUTH FOR: core_battery00000098
+label: 1228.0 || 814.0 || 1309.0 || 931.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7971) 1205.0365 || 794.23456 || 1316.1046 || 939.4539
+
+GROUND TRUTH FOR: coreless_battery00005987
+label: 217.0 || 471.0 || 317.0 || 643.0 || 1
+
+GROUND TRUTH FOR: core_battery00005785
+label: 1237.0 || 283.0 || 1399.0 || 360.0 || 0
+label: 1585.0 || 347.0 || 1652.0 || 477.0 || 0
+
+GROUND TRUTH FOR: core_battery00003050
+label: 757.0 || 318.0 || 861.0 || 422.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8715) 742.7892 || 309.18295 || 873.0206 || 410.02945
+
+GROUND TRUTH FOR: coreless_battery00001771
+label: 515.0 || 822.0 || 668.0 || 903.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9109) 502.26718 || 821.9048 || 671.0092 || 902.5374
+
+GROUND TRUTH FOR: coreless_battery00002409
+label: 96.0 || 747.0 || 254.0 || 857.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9824) 81.17898 || 736.5689 || 255.92818 || 859.6818
+
+GROUND TRUTH FOR: core_battery00005302
+label: 132.0 || 584.0 || 341.0 || 735.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000844
+label: 90.0 || 392.0 || 268.0 || 474.0 || 1
+
+GROUND TRUTH FOR: core_battery00001940
+label: 490.0 || 632.0 || 652.0 || 815.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000691
+label: 350.0 || 506.0 || 488.0 || 656.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9502) 356.69046 || 505.39276 || 476.21463 || 662.53595
+
+GROUND TRUTH FOR: coreless_battery00005034
+label: 647.0 || 715.0 || 839.0 || 880.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8554) 681.29517 || 734.2054 || 816.7365 || 882.1943
+
+GROUND TRUTH FOR: coreless_battery00000392
+label: 49.0 || 785.0 || 182.0 || 893.0 || 1
+label: 192.0 || 754.0 || 255.0 || 884.0 || 0
+label: 1388.0 || 487.0 || 1500.0 || 607.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002907
+label: 611.0 || 365.0 || 804.0 || 460.0 || 1
+label: 1611.0 || 351.0 || 1742.0 || 471.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6854) 1614.2874 || 363.82288 || 1740.0415 || 471.46298
+
+GROUND TRUTH FOR: coreless_battery00005937
+label: 1039.0 || 634.0 || 1199.0 || 793.0 || 1
+
+GROUND TRUTH FOR: core_battery00004553
+label: 44.0 || 555.0 || 182.0 || 631.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7332) 36.53801 || 538.8129 || 167.6755 || 635.4975
+
+GROUND TRUTH FOR: core_battery00001936
+label: 856.0 || 466.0 || 981.0 || 548.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001120
+label: 425.0 || 481.0 || 545.0 || 638.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8974) 436.14032 || 503.16714 || 542.9831 || 647.39136
+
+GROUND TRUTH FOR: core_battery00004775
+label: 1052.0 || 561.0 || 1191.0 || 694.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9533) 1048.0779 || 578.6349 || 1192.7329 || 689.3546
+
+GROUND TRUTH FOR: coreless_battery00000221
+label: 1199.0 || 384.0 || 1302.0 || 482.0 || 1
+
+GROUND TRUTH FOR: core_battery00002017
+label: 971.0 || 692.0 || 1156.0 || 870.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005423
+label: 206.0 || 377.0 || 374.0 || 484.0 || 1
+
+GROUND TRUTH FOR: core_battery00005381
+label: 1190.0 || 363.0 || 1423.0 || 479.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9495) 1202.9067 || 366.16217 || 1416.5353 || 470.5057
+
+GROUND TRUTH FOR: coreless_battery00001592
+label: 85.0 || 712.0 || 223.0 || 867.0 || 1
+label: 650.0 || 764.0 || 811.0 || 879.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9570) 632.89075 || 774.95605 || 822.3019 || 894.2456
+
+GROUND TRUTH FOR: core_battery00002688
+label: 151.0 || 472.0 || 323.0 || 549.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8241) 130.31544 || 469.30212 || 329.38977 || 566.7812
+
+GROUND TRUTH FOR: coreless_battery00005006
+label: 228.0 || 401.0 || 408.0 || 512.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8903) 233.53392 || 419.38495 || 410.52936 || 509.87466
+
+GROUND TRUTH FOR: coreless_battery00001694
+label: 309.0 || 727.0 || 535.0 || 869.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9809) 313.33768 || 736.67346 || 507.7507 || 857.13525
+
+GROUND TRUTH FOR: core_battery00002392
+label: 1239.0 || 410.0 || 1352.0 || 536.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8368) 1217.4023 || 412.43817 || 1376.2155 || 543.8592
+
+GROUND TRUTH FOR: coreless_battery00004561
+label: 1576.0 || 300.0 || 1657.0 || 522.0 || 1
+
+GROUND TRUTH FOR: core_battery00005166
+label: 794.0 || 411.0 || 875.0 || 531.0 || 0
+label: 876.0 || 432.0 || 1035.0 || 622.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7769) 830.7708 || 433.31772 || 1050.2175 || 585.8
+
+GROUND TRUTH FOR: coreless_battery00003025
+label: 220.0 || 770.0 || 407.0 || 879.0 || 1
+
+GROUND TRUTH FOR: core_battery00000643
+label: 487.0 || 390.0 || 564.0 || 509.0 || 0
+label: 1849.0 || 587.0 || 1960.0 || 663.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6794) 1831.0333 || 586.37744 || 1968.3107 || 670.83704
+
+GROUND TRUTH FOR: core_battery00000909
+label: 1891.0 || 743.0 || 1979.0 || 818.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002951
+label: 65.0 || 768.0 || 163.0 || 919.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7656) 70.569176 || 772.18115 || 151.69714 || 924.65906
+
+GROUND TRUTH FOR: coreless_battery00001596
+label: 1245.0 || 672.0 || 1357.0 || 871.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002257
+label: 786.0 || 740.0 || 944.0 || 881.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001118
+label: 471.0 || 689.0 || 623.0 || 781.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9177) 447.18787 || 698.293 || 640.82904 || 793.67426
+
+GROUND TRUTH FOR: core_battery00005809
+label: 556.0 || 369.0 || 669.0 || 414.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6123) 554.15015 || 353.22748 || 689.7153 || 426.77686
+
+GROUND TRUTH FOR: coreless_battery00004153
+label: 484.0 || 703.0 || 661.0 || 800.0 || 1
+label: 74.0 || 637.0 || 121.0 || 866.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7595) 495.46426 || 691.9734 || 661.9611 || 797.2623
+
+GROUND TRUTH FOR: coreless_battery00001067
+label: 473.0 || 812.0 || 632.0 || 900.0 || 1
+label: 1234.0 || 575.0 || 1298.0 || 726.0 || 0
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9180) 466.3553 || 809.7707 || 654.9614 || 905.0448
+
+GROUND TRUTH FOR: core_battery00004651
+label: 345.0 || 316.0 || 509.0 || 610.0 || 0
+
+GROUND TRUTH FOR: core_battery00001539
+label: 649.0 || 758.0 || 778.0 || 877.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8383) 658.2809 || 736.52997 || 773.122 || 863.5691
+
+GROUND TRUTH FOR: coreless_battery00002977
+label: 969.0 || 643.0 || 1119.0 || 848.0 || 1
+
+GROUND TRUTH FOR: core_battery00005186
+label: 373.0 || 445.0 || 457.0 || 643.0 || 0
+
+GROUND TRUTH FOR: core_battery00002914
+label: 1250.0 || 646.0 || 1382.0 || 733.0 || 0
+label: 1768.0 || 608.0 || 1881.0 || 769.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005082
+label: 60.0 || 379.0 || 252.0 || 470.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9360) 100.38215 || 370.8444 || 220.1813 || 455.94653
+
+GROUND TRUTH FOR: coreless_battery00000076
+label: 198.0 || 785.0 || 250.0 || 892.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8380) 169.87164 || 775.65656 || 261.2024 || 904.4802
+
+GROUND TRUTH FOR: core_battery00001007
+label: 643.0 || 593.0 || 713.0 || 758.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002600
+label: 76.0 || 711.0 || 219.0 || 847.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6982) 79.386 || 724.75433 || 208.53018 || 857.1719
+
+GROUND TRUTH FOR: core_battery00005336
+label: 193.0 || 394.0 || 318.0 || 461.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003783
+label: 351.0 || 509.0 || 522.0 || 678.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005335
+label: 55.0 || 674.0 || 277.0 || 782.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6130) 80.09607 || 689.87915 || 259.0699 || 775.6169
+
+GROUND TRUTH FOR: core_battery00001773
+label: 1761.0 || 666.0 || 1881.0 || 790.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6304) 1748.4526 || 662.77386 || 1900.3414 || 785.29663
+
+GROUND TRUTH FOR: coreless_battery00000599
+label: 149.0 || 470.0 || 234.0 || 650.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8815) 137.56314 || 473.94955 || 242.69434 || 654.0749
+
+GROUND TRUTH FOR: coreless_battery00004603
+label: 662.0 || 438.0 || 776.0 || 631.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8162) 675.2491 || 455.79175 || 789.62537 || 630.90796
+
+GROUND TRUTH FOR: coreless_battery00004310
+label: 586.0 || 539.0 || 680.0 || 721.0 || 1
+
+GROUND TRUTH FOR: core_battery00002197
+label: 696.0 || 391.0 || 874.0 || 471.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6144) 678.6077 || 386.4514 || 862.6077 || 482.45023
+
+GROUND TRUTH FOR: core_battery00000170
+label: 34.0 || 398.0 || 71.0 || 485.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7432) 26.852934 || 378.1744 || 73.61872 || 485.34857
+
+GROUND TRUTH FOR: core_battery00005442
+label: 1432.0 || 342.0 || 1559.0 || 561.0 || 0
+
+GROUND TRUTH FOR: core_battery00003175
+label: 983.0 || 338.0 || 1217.0 || 497.0 || 0
+label: 989.0 || 520.0 || 1176.0 || 638.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8939) 988.4681 || 513.70404 || 1167.0482 || 624.1679
+2 label: core score: tensor(0.6933) 1067.2836 || 361.4103 || 1222.5054 || 484.12286
+
+GROUND TRUTH FOR: core_battery00002454
+label: 195.0 || 430.0 || 293.0 || 533.0 || 0
+
+GROUND TRUTH FOR: core_battery00005741
+label: 83.0 || 624.0 || 168.0 || 820.0 || 0
+
+GROUND TRUTH FOR: core_battery00004091
+label: 92.0 || 410.0 || 201.0 || 542.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6562) 105.06019 || 395.28436 || 167.89435 || 529.2429
+
+GROUND TRUTH FOR: core_battery00003182
+label: 461.0 || 502.0 || 586.0 || 653.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9082) 451.19785 || 497.61615 || 557.6388 || 628.9407
+
+GROUND TRUTH FOR: coreless_battery00004793
+label: 280.0 || 814.0 || 465.0 || 912.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005879
+label: 741.0 || 416.0 || 930.0 || 527.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6214) 761.30743 || 424.78116 || 920.96814 || 523.40015
+
+GROUND TRUTH FOR: coreless_battery00005513
+label: 664.0 || 642.0 || 841.0 || 758.0 || 1
+
+GROUND TRUTH FOR: core_battery00002740
+label: 750.0 || 502.0 || 892.0 || 611.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7404) 751.21906 || 507.0667 || 887.55725 || 587.635
+
+GROUND TRUTH FOR: coreless_battery00002184
+label: 928.0 || 573.0 || 1032.0 || 642.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002004
+label: 1620.0 || 667.0 || 1704.0 || 869.0 || 1
+
+GROUND TRUTH FOR: core_battery00002985
+label: 122.0 || 790.0 || 238.0 || 914.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6540) 126.98018 || 786.74274 || 238.03748 || 911.13904
+
+GROUND TRUTH FOR: coreless_battery00000566
+label: 1202.0 || 504.0 || 1278.0 || 644.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005228
+label: 102.0 || 576.0 || 328.0 || 692.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9490) 147.00212 || 579.30347 || 323.13516 || 692.5156
+
+GROUND TRUTH FOR: coreless_battery00000375
+label: 476.0 || 545.0 || 615.0 || 772.0 || 1
+
+GROUND TRUTH FOR: core_battery00005753
+label: 839.0 || 769.0 || 954.0 || 908.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8976) 828.56995 || 770.5123 || 945.7419 || 912.0054
+
+GROUND TRUTH FOR: coreless_battery00001186
+label: 683.0 || 677.0 || 818.0 || 760.0 || 1
+
+GROUND TRUTH FOR: core_battery00001091
+label: 123.0 || 410.0 || 287.0 || 497.0 || 0
+
+GROUND TRUTH FOR: core_battery00003085
+label: 138.0 || 306.0 || 205.0 || 430.0 || 0
+label: 636.0 || 534.0 || 840.0 || 614.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002644
+label: 57.0 || 369.0 || 245.0 || 435.0 || 1
+
+GROUND TRUTH FOR: core_battery00005390
+label: 469.0 || 570.0 || 579.0 || 774.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9364) 462.68948 || 579.5637 || 584.173 || 770.2458
+
+GROUND TRUTH FOR: core_battery00004897
+label: 932.0 || 693.0 || 1046.0 || 841.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6347) 940.0747 || 703.06134 || 1040.4078 || 831.31573
+
+GROUND TRUTH FOR: coreless_battery00004309
+label: 113.0 || 318.0 || 296.0 || 423.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7406) 105.76651 || 323.35278 || 262.57486 || 408.6145
+
+GROUND TRUTH FOR: coreless_battery00004100
+label: 407.0 || 691.0 || 503.0 || 867.0 || 1
+
+GROUND TRUTH FOR: core_battery00003645
+label: 210.0 || 503.0 || 349.0 || 599.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6497) 216.29985 || 493.16818 || 352.14587 || 606.6888
+
+GROUND TRUTH FOR: coreless_battery00001408
+label: 156.0 || 647.0 || 340.0 || 730.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9717) 157.92105 || 649.47864 || 342.5114 || 732.1915
+
+GROUND TRUTH FOR: core_battery00003192
+label: 587.0 || 758.0 || 691.0 || 884.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7361) 594.5517 || 762.7666 || 693.9773 || 888.0599
+
+GROUND TRUTH FOR: core_battery00001640
+label: 268.0 || 650.0 || 363.0 || 768.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9213) 272.06653 || 647.96234 || 348.80908 || 760.6613
+
+GROUND TRUTH FOR: core_battery00000831
+label: 635.0 || 461.0 || 807.0 || 609.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7364) 649.69745 || 463.42215 || 785.3249 || 631.3006
+
+GROUND TRUTH FOR: core_battery00005088
+label: 333.0 || 530.0 || 382.0 || 695.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000977
+label: 271.0 || 720.0 || 351.0 || 918.0 || 1
+label: 918.0 || 722.0 || 1055.0 || 880.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8577) 905.1103 || 729.06586 || 1050.1239 || 878.7178
+
+GROUND TRUTH FOR: core_battery00000028
+label: 53.0 || 496.0 || 147.0 || 577.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00004806
+label: 59.0 || 561.0 || 238.0 || 675.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6780) 63.735386 || 560.63385 || 238.02441 || 662.83246
+
+GROUND TRUTH FOR: core_battery00003330
+label: 175.0 || 800.0 || 319.0 || 899.0 || 0
+label: 697.0 || 681.0 || 792.0 || 870.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9381) 183.40471 || 785.7116 || 323.57828 || 908.9825
+2 label: core score: tensor(0.8538) 699.7541 || 678.92773 || 801.9003 || 865.4017
+3 label: core score: tensor(0.7622) 603.4965 || 633.6293 || 718.39026 || 733.3094
+
+GROUND TRUTH FOR: core_battery00001241
+label: 942.0 || 455.0 || 1063.0 || 596.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9459) 948.001 || 452.14426 || 1058.2341 || 575.10223
+
+GROUND TRUTH FOR: coreless_battery00001469
+label: 216.0 || 456.0 || 346.0 || 577.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9709) 196.95824 || 462.3291 || 358.80402 || 575.11115
+
+GROUND TRUTH FOR: core_battery00002780
+label: 467.0 || 571.0 || 563.0 || 770.0 || 0
+label: 154.0 || 578.0 || 261.0 || 670.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9048) 465.97345 || 575.25726 || 552.9563 || 765.21265
+
+GROUND TRUTH FOR: core_battery00003222
+label: 225.0 || 761.0 || 394.0 || 894.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000672
+label: 463.0 || 555.0 || 553.0 || 705.0 || 1
+
+GROUND TRUTH FOR: core_battery00000750
+label: 173.0 || 588.0 || 334.0 || 661.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002827
+label: 77.0 || 349.0 || 242.0 || 465.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7912) 66.79885 || 352.39456 || 242.3952 || 467.0593
+
+GROUND TRUTH FOR: coreless_battery00005886
+label: 107.0 || 692.0 || 310.0 || 836.0 || 1
+label: 1316.0 || 556.0 || 1413.0 || 771.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9625) 82.73377 || 696.7854 || 291.64795 || 821.7721
+
+GROUND TRUTH FOR: core_battery00003880
+label: 237.0 || 777.0 || 372.0 || 889.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8488) 245.50768 || 770.33203 || 368.61472 || 882.6154
+
+GROUND TRUTH FOR: core_battery00001243
+label: 362.0 || 546.0 || 488.0 || 651.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8763) 380.25388 || 552.6593 || 484.77164 || 658.69775
+2 label: core score: tensor(0.7856) 917.77704 || 575.9368 || 1023.23865 || 683.1681
+
+GROUND TRUTH FOR: coreless_battery00003750
+label: 642.0 || 591.0 || 789.0 || 726.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003004
+label: 884.0 || 338.0 || 1057.0 || 513.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7208) 884.5205 || 378.24808 || 1076.6665 || 514.0112
+
+GROUND TRUTH FOR: coreless_battery00000687
+label: 443.0 || 489.0 || 510.0 || 625.0 || 1
+
+GROUND TRUTH FOR: core_battery00003533
+label: 179.0 || 701.0 || 366.0 || 884.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002589
+label: 1012.0 || 583.0 || 1175.0 || 687.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7682) 1012.04126 || 590.1677 || 1182.6484 || 693.0961
+
+GROUND TRUTH FOR: core_battery00002215
+label: 844.0 || 403.0 || 978.0 || 634.0 || 0
+label: 1707.0 || 533.0 || 1783.0 || 670.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003703
+label: 635.0 || 615.0 || 725.0 || 693.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003550
+label: 89.0 || 840.0 || 318.0 || 955.0 || 1
+label: 1727.0 || 750.0 || 1824.0 || 870.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6446) 1716.6078 || 763.34644 || 1845.0635 || 857.28357
+2 label: coreless score: tensor(0.9468) 103.0408 || 834.5891 || 313.00336 || 953.68945
+
+GROUND TRUTH FOR: core_battery00002863
+label: 219.0 || 419.0 || 363.0 || 589.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001902
+label: 125.0 || 361.0 || 285.0 || 430.0 || 1
+
+GROUND TRUTH FOR: core_battery00005358
+label: 85.0 || 632.0 || 155.0 || 758.0 || 0
+
+GROUND TRUTH FOR: core_battery00001752
+label: 493.0 || 619.0 || 529.0 || 724.0 || 0
+
+GROUND TRUTH FOR: core_battery00001604
+label: 66.0 || 510.0 || 148.0 || 685.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8065) 47.07639 || 530.46106 || 129.47919 || 650.90424
+
+GROUND TRUTH FOR: coreless_battery00000273
+label: 1747.0 || 811.0 || 1835.0 || 959.0 || 1
+
+GROUND TRUTH FOR: core_battery00000248
+label: 1045.0 || 468.0 || 1133.0 || 608.0 || 0
+
+GROUND TRUTH FOR: core_battery00001628
+label: 73.0 || 789.0 || 242.0 || 908.0 || 0
+
+GROUND TRUTH FOR: core_battery00005676
+label: 405.0 || 359.0 || 515.0 || 445.0 || 0
+
+GROUND TRUTH FOR: core_battery00004448
+label: 355.0 || 582.0 || 478.0 || 761.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8810) 340.0635 || 584.27686 || 480.7433 || 740.287
+
+GROUND TRUTH FOR: coreless_battery00003362
+label: 113.0 || 686.0 || 252.0 || 855.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6948) 119.133354 || 686.6251 || 268.41568 || 844.9974
+
+GROUND TRUTH FOR: coreless_battery00003499
+label: 347.0 || 537.0 || 445.0 || 675.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9244) 334.57034 || 500.8388 || 461.22495 || 662.91675
+
+GROUND TRUTH FOR: core_battery00003083
+label: 1034.0 || 402.0 || 1173.0 || 610.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6399) 1042.4054 || 406.78964 || 1158.6846 || 616.64453
+
+GROUND TRUTH FOR: core_battery00004180
+label: 535.0 || 696.0 || 631.0 || 866.0 || 0
+
+GROUND TRUTH FOR: core_battery00003443
+label: 997.0 || 480.0 || 1114.0 || 610.0 || 0
+
+GROUND TRUTH FOR: core_battery00000668
+label: 183.0 || 758.0 || 290.0 || 876.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7465) 163.66637 || 748.3249 || 303.78375 || 851.8018
+
+GROUND TRUTH FOR: coreless_battery00002967
+label: 325.0 || 372.0 || 466.0 || 453.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002768
+label: 178.0 || 329.0 || 350.0 || 389.0 || 1
+
+GROUND TRUTH FOR: core_battery00003943
+label: 782.0 || 721.0 || 907.0 || 841.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7717) 782.49963 || 723.4718 || 913.79767 || 856.1434
+
+GROUND TRUTH FOR: coreless_battery00004048
+label: 572.0 || 415.0 || 748.0 || 539.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8845) 581.60455 || 427.91403 || 733.0034 || 525.6504
+
+GROUND TRUTH FOR: core_battery00000213
+label: 314.0 || 392.0 || 399.0 || 485.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8280) 308.49316 || 379.5081 || 402.07336 || 491.31387
+
+GROUND TRUTH FOR: coreless_battery00005614
+label: 1112.0 || 684.0 || 1206.0 || 877.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002871
+label: 635.0 || 616.0 || 718.0 || 803.0 || 1
+
+GROUND TRUTH FOR: core_battery00002582
+label: 232.0 || 687.0 || 356.0 || 797.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9651) 219.89294 || 666.2268 || 339.18478 || 801.9837
+
+GROUND TRUTH FOR: coreless_battery00000563
+label: 906.0 || 494.0 || 1070.0 || 574.0 || 1
+
+GROUND TRUTH FOR: core_battery00004535
+label: 503.0 || 656.0 || 720.0 || 778.0 || 0
+label: 1679.0 || 353.0 || 1899.0 || 454.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7704) 502.31384 || 657.7411 || 705.7327 || 767.30414
+2 label: core score: tensor(0.7492) 1702.536 || 354.78946 || 1907.9116 || 436.4741
+
+GROUND TRUTH FOR: coreless_battery00005868
+label: 337.0 || 715.0 || 457.0 || 895.0 || 1
+label: 115.0 || 793.0 || 314.0 || 882.0 || 1
+label: 848.0 || 416.0 || 923.0 || 507.0 || 0
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7012) 182.23642 || 793.205 || 325.31464 || 887.0042
+
+GROUND TRUTH FOR: core_battery00000518
+label: 139.0 || 549.0 || 250.0 || 667.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8213) 123.9247 || 545.61536 || 266.53537 || 670.9488
+
+GROUND TRUTH FOR: coreless_battery00003382
+label: 682.0 || 307.0 || 803.0 || 464.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9553) 683.0124 || 343.17856 || 796.75635 || 467.24725
+
+GROUND TRUTH FOR: core_battery00000051
+label: 515.0 || 389.0 || 575.0 || 455.0 || 0
+
+GROUND TRUTH FOR: core_battery00000980
+label: 433.0 || 660.0 || 508.0 || 852.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003851
+label: 503.0 || 581.0 || 723.0 || 660.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003821
+label: 235.0 || 449.0 || 349.0 || 580.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9041) 235.10916 || 478.8291 || 345.7299 || 597.28326
+
+GROUND TRUTH FOR: core_battery00000235
+label: 263.0 || 626.0 || 364.0 || 717.0 || 0
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7956) 259.82318 || 616.9888 || 374.4215 || 732.62994
+
+GROUND TRUTH FOR: core_battery00001216
+label: 488.0 || 642.0 || 642.0 || 748.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9581) 507.07968 || 631.7737 || 632.6369 || 747.2638
+
+GROUND TRUTH FOR: core_battery00005639
+label: 694.0 || 720.0 || 810.0 || 856.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9235) 702.5728 || 721.2728 || 821.80426 || 855.38055
+
+GROUND TRUTH FOR: core_battery00004340
+label: 1363.0 || 521.0 || 1498.0 || 663.0 || 0
+
+GROUND TRUTH FOR: core_battery00002142
+label: 772.0 || 643.0 || 928.0 || 786.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6820) 774.3731 || 646.23486 || 907.7258 || 787.84753
+
+GROUND TRUTH FOR: coreless_battery00002352
+label: 1465.0 || 337.0 || 1593.0 || 375.0 || 1
+
+GROUND TRUTH FOR: core_battery00000348
+label: 183.0 || 538.0 || 279.0 || 650.0 || 0
+label: 1852.0 || 665.0 || 1902.0 || 787.0 || 0
+
+GROUND TRUTH FOR: core_battery00005992
+label: 416.0 || 365.0 || 517.0 || 464.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005206
+label: 282.0 || 490.0 || 412.0 || 709.0 || 1
+
+GROUND TRUTH FOR: core_battery00000903
+label: 245.0 || 457.0 || 351.0 || 633.0 || 0
+label: 1535.0 || 427.0 || 1627.0 || 529.0 || 1
+
+GROUND TRUTH FOR: core_battery00005587
+label: 757.0 || 528.0 || 881.0 || 648.0 || 0
+label: 1201.0 || 812.0 || 1397.0 || 904.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.8923) 753.53186 || 529.6874 || 878.1422 || 642.9034
+2 label: coreless score: tensor(0.9453) 1201.196 || 800.41864 || 1395.8956 || 898.65326
+
+GROUND TRUTH FOR: coreless_battery00004080
+label: 183.0 || 687.0 || 350.0 || 779.0 || 1
+label: 1345.0 || 328.0 || 1440.0 || 500.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8148) 168.22807 || 674.3889 || 352.64688 || 787.7
+
+GROUND TRUTH FOR: core_battery00001010
+label: 101.0 || 716.0 || 303.0 || 863.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6507) 119.71494 || 690.65735 || 312.87943 || 826.42584
+
+GROUND TRUTH FOR: coreless_battery00002109
+label: 386.0 || 458.0 || 575.0 || 561.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8154) 392.34015 || 465.0006 || 572.1996 || 558.7403
+
+GROUND TRUTH FOR: core_battery00001915
+label: 1409.0 || 391.0 || 1505.0 || 459.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7591) 1401.8702 || 377.8633 || 1515.1554 || 467.306
+
+GROUND TRUTH FOR: core_battery00000652
+label: 378.0 || 582.0 || 437.0 || 750.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000181
+label: 151.0 || 519.0 || 245.0 || 609.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005383
+label: 78.0 || 352.0 || 259.0 || 455.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8060) 105.398895 || 363.1586 || 254.1847 || 468.12265
+
+GROUND TRUTH FOR: core_battery00001758
+label: 93.0 || 402.0 || 176.0 || 486.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7677) 79.246025 || 392.2487 || 166.09566 || 497.87143
+
+GROUND TRUTH FOR: core_battery00004337
+label: 226.0 || 325.0 || 419.0 || 433.0 || 0
+label: 1012.0 || 672.0 || 1137.0 || 763.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8921) 202.20863 || 321.19586 || 399.41452 || 424.4876
+2 label: core score: tensor(0.7785) 1007.1709 || 688.3605 || 1148.3147 || 769.00336
+
+GROUND TRUTH FOR: coreless_battery00004727
+label: 334.0 || 336.0 || 477.0 || 522.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003456
+label: 472.0 || 325.0 || 600.0 || 427.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7867) 462.24884 || 332.28146 || 602.4356 || 427.4881
+
+GROUND TRUTH FOR: coreless_battery00003378
+label: 678.0 || 435.0 || 859.0 || 515.0 || 1
+label: 220.0 || 738.0 || 356.0 || 812.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7815) 224.4178 || 746.3916 || 344.23444 || 838.6708
+
+GROUND TRUTH FOR: coreless_battery00001224
+label: 937.0 || 598.0 || 1022.0 || 782.0 || 1
+
+GROUND TRUTH FOR: core_battery00000091
+label: 1069.0 || 523.0 || 1112.0 || 635.0 || 0
+
+GROUND TRUTH FOR: core_battery00004518
+label: 259.0 || 612.0 || 349.0 || 834.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8586) 260.46683 || 618.56555 || 364.23438 || 852.5928
+
+GROUND TRUTH FOR: coreless_battery00001153
+label: 182.0 || 648.0 || 322.0 || 797.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9617) 173.13974 || 630.4772 || 325.27963 || 800.881
+
+GROUND TRUTH FOR: core_battery00003171
+label: 186.0 || 623.0 || 324.0 || 764.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7191) 190.5 || 618.0434 || 311.52905 || 747.0436
+
+GROUND TRUTH FOR: coreless_battery00001796
+label: 139.0 || 546.0 || 312.0 || 618.0 || 1
+
+GROUND TRUTH FOR: core_battery00004394
+label: 920.0 || 732.0 || 1061.0 || 855.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6829) 933.24115 || 747.1118 || 1065.221 || 866.1893
+
+GROUND TRUTH FOR: core_battery00001019
+label: 51.0 || 417.0 || 157.0 || 537.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9061) 41.372017 || 413.5274 || 148.0682 || 535.44904
+
+GROUND TRUTH FOR: core_battery00005106
+label: 559.0 || 534.0 || 617.0 || 670.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8067) 119.144684 || 398.44766 || 212.66937 || 524.66284
+2 label: core score: tensor(0.6242) 556.2951 || 529.97595 || 620.2439 || 669.53864
+
+GROUND TRUTH FOR: coreless_battery00001541
+label: 802.0 || 481.0 || 914.0 || 609.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8757) 801.0499 || 475.6641 || 910.1979 || 611.91235
+
+GROUND TRUTH FOR: core_battery00002716
+label: 298.0 || 658.0 || 468.0 || 813.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6105) 293.6079 || 638.1772 || 456.97516 || 802.4383
+
+GROUND TRUTH FOR: coreless_battery00002887
+label: 899.0 || 359.0 || 1001.0 || 515.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002103
+label: 226.0 || 460.0 || 338.0 || 597.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002160
+label: 705.0 || 764.0 || 900.0 || 825.0 || 1
+
+GROUND TRUTH FOR: core_battery00000322
+label: 254.0 || 590.0 || 349.0 || 698.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9670) 258.59283 || 571.4727 || 351.48767 || 698.6311
+2 label: core score: tensor(0.6737) 92.14908 || 635.0941 || 148.75572 || 726.10144
+
+GROUND TRUTH FOR: core_battery00001903
+label: 176.0 || 573.0 || 285.0 || 643.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002579
+label: 155.0 || 625.0 || 305.0 || 700.0 || 1
+
+GROUND TRUTH FOR: core_battery00001589
+label: 139.0 || 711.0 || 370.0 || 831.0 || 0
+
+GROUND TRUTH FOR: core_battery00002445
+label: 283.0 || 372.0 || 389.0 || 507.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8640) 272.4476 || 376.85782 || 379.4775 || 498.68484
+
+GROUND TRUTH FOR: coreless_battery00003459
+label: 115.0 || 614.0 || 298.0 || 729.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7283) 121.1584 || 627.29614 || 301.35474 || 781.77246
+
+GROUND TRUTH FOR: core_battery00001985
+label: 564.0 || 347.0 || 628.0 || 522.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003384
+label: 108.0 || 733.0 || 303.0 || 879.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6242) 84.47672 || 720.6012 || 334.19833 || 882.72144
+
+GROUND TRUTH FOR: coreless_battery00005306
+label: 130.0 || 652.0 || 252.0 || 839.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8468) 125.992584 || 659.06616 || 248.00165 || 808.66565
+
+GROUND TRUTH FOR: core_battery00002176
+label: 611.0 || 578.0 || 738.0 || 644.0 || 0
+label: 1309.0 || 452.0 || 1496.0 || 571.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8791) 1311.4508 || 451.65463 || 1514.052 || 558.5502
+
+GROUND TRUTH FOR: core_battery00003232
+label: 1074.0 || 754.0 || 1186.0 || 900.0 || 0
+
+GROUND TRUTH FOR: core_battery00003762
+label: 263.0 || 527.0 || 358.0 || 659.0 || 0
+label: 185.0 || 436.0 || 446.0 || 649.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6239) 380.59058 || 649.73676 || 553.1568 || 739.61444
+
+GROUND TRUTH FOR: coreless_battery00000500
+label: 141.0 || 823.0 || 297.0 || 917.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9800) 114.453766 || 815.37103 || 315.07663 || 916.49634
+
+GROUND TRUTH FOR: coreless_battery00001480
+label: 127.0 || 565.0 || 174.0 || 775.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002369
+label: 1187.0 || 410.0 || 1352.0 || 499.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8797) 1185.0243 || 400.47714 || 1366.3519 || 495.45255
+
+GROUND TRUTH FOR: core_battery00004032
+label: 212.0 || 453.0 || 352.0 || 552.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8037) 222.31699 || 448.1306 || 340.9567 || 562.4208
+
+GROUND TRUTH FOR: core_battery00006000
+label: 662.0 || 585.0 || 784.0 || 709.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9258) 669.69995 || 590.2289 || 764.1129 || 706.10406
+
+GROUND TRUTH FOR: coreless_battery00000620
+label: 21.0 || 439.0 || 152.0 || 506.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8648) 17.442747 || 417.24252 || 172.88971 || 525.036
+
+GROUND TRUTH FOR: coreless_battery00002928
+label: 88.0 || 516.0 || 194.0 || 706.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8746) 75.168076 || 534.9025 || 195.09312 || 714.1957
+
+GROUND TRUTH FOR: core_battery00004126
+label: 887.0 || 766.0 || 1021.0 || 869.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9466) 886.2335 || 758.3031 || 1013.4054 || 868.55426
+
+GROUND TRUTH FOR: core_battery00003013
+label: 1337.0 || 378.0 || 1481.0 || 474.0 || 0
+
+GROUND TRUTH FOR: core_battery00005653
+label: 40.0 || 539.0 || 112.0 || 691.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8998) 48.902626 || 534.851 || 118.03288 || 694.8271
+
+GROUND TRUTH FOR: coreless_battery00003080
+label: 886.0 || 470.0 || 1024.0 || 644.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6904) 865.6271 || 476.17657 || 1032.1918 || 629.1996
+
+GROUND TRUTH FOR: core_battery00005270
+label: 137.0 || 441.0 || 299.0 || 561.0 || 0
+label: 1051.0 || 815.0 || 1184.0 || 925.0 || 0
+
+GROUND TRUTH FOR: core_battery00000799
+label: 428.0 || 569.0 || 616.0 || 624.0 || 0
+
+GROUND TRUTH FOR: core_battery00002762
+label: 1642.0 || 561.0 || 1788.0 || 699.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000655
+label: 103.0 || 561.0 || 192.0 || 690.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9643) 105.07001 || 561.6718 || 188.98895 || 705.4907
+
+GROUND TRUTH FOR: core_battery00004190
+label: 130.0 || 386.0 || 256.0 || 524.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6228) 123.09568 || 372.3818 || 254.83737 || 517.9521
+
+GROUND TRUTH FOR: coreless_battery00005361
+label: 344.0 || 450.0 || 446.0 || 585.0 || 1
+
+GROUND TRUTH FOR: core_battery00003403
+label: 155.0 || 538.0 || 261.0 || 675.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8874) 148.06468 || 548.4802 || 240.23119 || 702.3074
+
+GROUND TRUTH FOR: core_battery00000297
+label: 70.0 || 762.0 || 171.0 || 834.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8521) 53.30128 || 752.441 || 184.35478 || 840.34094
+
+GROUND TRUTH FOR: coreless_battery00003065
+label: 1050.0 || 558.0 || 1170.0 || 704.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002812
+label: 70.0 || 633.0 || 277.0 || 802.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7047) 81.45034 || 640.0402 || 263.0094 || 815.68823
+
+GROUND TRUTH FOR: core_battery00000489
+label: 496.0 || 561.0 || 603.0 || 678.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9203) 495.53806 || 549.08997 || 603.4966 || 677.9823
+
+GROUND TRUTH FOR: coreless_battery00002166
+label: 134.0 || 554.0 || 332.0 || 647.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005304
+label: 519.0 || 335.0 || 680.0 || 503.0 || 1
+
+GROUND TRUTH FOR: core_battery00000684
+label: 689.0 || 535.0 || 770.0 || 709.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001755
+label: 841.0 || 550.0 || 995.0 || 620.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6552) 831.70703 || 539.74615 || 996.86285 || 628.0071
+
+GROUND TRUTH FOR: core_battery00001749
+label: 33.0 || 396.0 || 136.0 || 540.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00004336
+label: 1076.0 || 698.0 || 1208.0 || 862.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004453
+label: 286.0 || 576.0 || 417.0 || 768.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7439) 292.5096 || 591.5433 || 409.60333 || 775.7974
+
+GROUND TRUTH FOR: coreless_battery00003143
+label: 186.0 || 342.0 || 397.0 || 433.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8089) 191.2118 || 339.1282 || 379.60574 || 431.5225
+
+GROUND TRUTH FOR: coreless_battery00000180
+label: 862.0 || 678.0 || 1030.0 || 795.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9048) 848.12445 || 677.15875 || 1060.2961 || 803.142
+
+GROUND TRUTH FOR: coreless_battery00000298
+label: 234.0 || 608.0 || 350.0 || 754.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9109) 223.80269 || 602.03455 || 334.9264 || 782.7529
+
+GROUND TRUTH FOR: coreless_battery00005243
+label: 345.0 || 781.0 || 573.0 || 883.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8495) 375.19733 || 761.6565 || 563.75073 || 879.4758
+
+GROUND TRUTH FOR: coreless_battery00004114
+label: 664.0 || 626.0 || 753.0 || 819.0 || 1
+label: 857.0 || 626.0 || 923.0 || 771.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8008) 638.8673 || 639.37866 || 762.6887 || 773.7732
+
+GROUND TRUTH FOR: core_battery00000594
+label: 549.0 || 673.0 || 614.0 || 772.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001176
+label: 608.0 || 406.0 || 755.0 || 499.0 || 1
+label: 1323.0 || 745.0 || 1504.0 || 846.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8943) 1323.5343 || 751.371 || 1520.1144 || 848.5721
+2 label: coreless score: tensor(0.8878) 611.59875 || 408.2525 || 757.3299 || 500.5683
+
+GROUND TRUTH FOR: coreless_battery00004766
+label: 1659.0 || 556.0 || 1770.0 || 784.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004293
+label: 319.0 || 651.0 || 450.0 || 824.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6277) 325.11697 || 672.2844 || 453.32382 || 812.1145
+
+GROUND TRUTH FOR: core_battery00005108
+label: 479.0 || 376.0 || 553.0 || 470.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8026) 472.37866 || 390.75623 || 537.5598 || 471.49982
+
+GROUND TRUTH FOR: coreless_battery00002425
+label: 153.0 || 600.0 || 292.0 || 750.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.6168) 194.63736 || 361.73444 || 256.57498 || 520.0905
+
+GROUND TRUTH FOR: core_battery00001239
+label: 139.0 || 373.0 || 266.0 || 488.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7392) 112.627335 || 376.63757 || 246.5274 || 494.0615
+
+GROUND TRUTH FOR: coreless_battery00004619
+label: 960.0 || 583.0 || 1169.0 || 716.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6693) 929.29266 || 603.40674 || 1170.2875 || 709.16364
+
+GROUND TRUTH FOR: core_battery00005365
+label: 1377.0 || 724.0 || 1518.0 || 877.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9246) 1367.4127 || 745.8671 || 1509.3932 || 872.08496
+
+GROUND TRUTH FOR: coreless_battery00001586
+label: 181.0 || 368.0 || 359.0 || 458.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6194) 182.76616 || 368.14005 || 352.71085 || 464.19946
+
+GROUND TRUTH FOR: core_battery00001363
+label: 1769.0 || 388.0 || 1835.0 || 517.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003195
+label: 109.0 || 732.0 || 323.0 || 843.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00000941
+label: 79.0 || 857.0 || 269.0 || 942.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8836) 72.868744 || 859.8936 || 259.3541 || 962.53735
+
+GROUND TRUTH FOR: coreless_battery00005194
+label: 1261.0 || 356.0 || 1352.0 || 500.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004493
+label: 1235.0 || 336.0 || 1466.0 || 498.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9228) 1258.6378 || 348.31265 || 1446.2001 || 492.75363
+
+GROUND TRUTH FOR: coreless_battery00002133
+label: 655.0 || 526.0 || 717.0 || 715.0 || 1
+label: 727.0 || 503.0 || 826.0 || 635.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001081
+label: 39.0 || 597.0 || 122.0 || 796.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005230
+label: 109.0 || 406.0 || 238.0 || 570.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9133) 109.92063 || 413.43802 || 224.8798 || 583.6908
+
+GROUND TRUTH FOR: coreless_battery00005190
+label: 647.0 || 397.0 || 796.0 || 564.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7946) 639.22015 || 402.36414 || 774.2187 || 537.1578
+
+GROUND TRUTH FOR: core_battery00004185
+label: 973.0 || 434.0 || 1118.0 || 613.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6335) 966.7706 || 428.97144 || 1115.1011 || 601.721
+
+GROUND TRUTH FOR: coreless_battery00000895
+label: 1583.0 || 809.0 || 1760.0 || 932.0 || 1
+label: 1926.0 || 726.0 || 1991.0 || 873.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9658) 1583.2908 || 819.63245 || 1752.804 || 937.43585
+
+GROUND TRUTH FOR: core_battery00003471
+label: 1297.0 || 334.0 || 1382.0 || 433.0 || 0
+
+GROUND TRUTH FOR: core_battery00005907
+label: 465.0 || 544.0 || 556.0 || 661.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7213) 466.8854 || 539.908 || 564.1865 || 642.5704
+
+GROUND TRUTH FOR: core_battery00002366
+label: 65.0 || 746.0 || 185.0 || 842.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6872) 37.299976 || 738.70953 || 178.93004 || 859.9416
+
+GROUND TRUTH FOR: core_battery00001025
+label: 592.0 || 443.0 || 729.0 || 606.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002501
+label: 172.0 || 630.0 || 342.0 || 707.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005553
+label: 813.0 || 530.0 || 953.0 || 716.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6451) 825.9435 || 549.9596 || 943.1049 || 713.8185
+
+GROUND TRUTH FOR: core_battery00005796
+label: 57.0 || 617.0 || 110.0 || 847.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8992) 56.19259 || 649.0844 || 106.49632 || 845.1366
+
+GROUND TRUTH FOR: coreless_battery00005769
+label: 150.0 || 791.0 || 333.0 || 893.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6411) 142.74171 || 791.135 || 320.852 || 892.093
+
+GROUND TRUTH FOR: core_battery00005013
+label: 234.0 || 522.0 || 385.0 || 591.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001919
+label: 892.0 || 427.0 || 941.0 || 593.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7481) 262.9172 || 403.7883 || 463.79736 || 526.8868
+
+GROUND TRUTH FOR: coreless_battery00002034
+label: 215.0 || 556.0 || 412.0 || 681.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004262
+label: 749.0 || 471.0 || 842.0 || 581.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6540) 733.9045 || 481.48422 || 832.4128 || 577.2216
+
+GROUND TRUTH FOR: core_battery00002286
+label: 1061.0 || 429.0 || 1189.0 || 535.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7321) 1071.9751 || 435.97247 || 1192.9805 || 543.3886
+
+GROUND TRUTH FOR: core_battery00004840
+label: 835.0 || 285.0 || 919.0 || 427.0 || 0
+label: 170.0 || 396.0 || 291.0 || 459.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002833
+label: 229.0 || 712.0 || 358.0 || 849.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9537) 222.88103 || 722.55566 || 367.01523 || 870.9277
+
+GROUND TRUTH FOR: coreless_battery00004335
+label: 389.0 || 347.0 || 554.0 || 433.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001458
+label: 260.0 || 437.0 || 428.0 || 527.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8036) 247.3343 || 424.13425 || 413.3403 || 518.8211
+
+GROUND TRUTH FOR: coreless_battery00001601
+label: 472.0 || 514.0 || 542.0 || 677.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002658
+label: 613.0 || 321.0 || 782.0 || 399.0 || 1
+label: 86.0 || 390.0 || 292.0 || 478.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6197) 73.48017 || 371.9592 || 243.70793 || 476.27496
+
+GROUND TRUTH FOR: core_battery00003842
+label: 266.0 || 587.0 || 456.0 || 715.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7986) 258.63992 || 600.0666 || 445.0664 || 704.97687
+
+GROUND TRUTH FOR: coreless_battery00004124
+label: 323.0 || 545.0 || 459.0 || 706.0 || 1
+
+GROUND TRUTH FOR: core_battery00003921
+label: 670.0 || 367.0 || 863.0 || 548.0 || 0
+label: 549.0 || 563.0 || 662.0 || 668.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9449) 547.89954 || 553.34174 || 661.52545 || 674.1105
+2 label: core score: tensor(0.8107) 741.3262 || 373.4828 || 863.0788 || 501.2132
+
+GROUND TRUTH FOR: coreless_battery00004890
+label: 1116.0 || 327.0 || 1236.0 || 544.0 || 1
+label: 1251.0 || 534.0 || 1345.0 || 660.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7847) 1227.3317 || 535.05493 || 1353.8469 || 657.73456
+
+GROUND TRUTH FOR: coreless_battery00003002
+label: 264.0 || 641.0 || 410.0 || 716.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9341) 272.9833 || 634.21124 || 411.25623 || 743.7528
+
+GROUND TRUTH FOR: coreless_battery00004611
+label: 347.0 || 466.0 || 495.0 || 551.0 || 1
+label: 1537.0 || 381.0 || 1753.0 || 506.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9390) 1543.4312 || 388.3806 || 1750.1914 || 504.30762
+
+GROUND TRUTH FOR: core_battery00005488
+label: 245.0 || 713.0 || 390.0 || 848.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7886) 252.90254 || 727.8534 || 383.2399 || 841.4451
+
+GROUND TRUTH FOR: coreless_battery00004521
+label: 1243.0 || 561.0 || 1383.0 || 738.0 || 1
+
+GROUND TRUTH FOR: core_battery00003071
+label: 846.0 || 500.0 || 886.0 || 625.0 || 0
+
+GROUND TRUTH FOR: core_battery00005882
+label: 208.0 || 474.0 || 362.0 || 632.0 || 0
+
+GROUND TRUTH FOR: core_battery00004757
+label: 676.0 || 793.0 || 866.0 || 897.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8609) 676.20544 || 808.9703 || 879.4736 || 891.7617
+
+GROUND TRUTH FOR: core_battery00001367
+label: 806.0 || 705.0 || 865.0 || 850.0 || 0
+
+GROUND TRUTH FOR: core_battery00000627
+label: 336.0 || 737.0 || 444.0 || 829.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8702) 295.62625 || 725.235 || 441.89218 || 839.7526
+
+GROUND TRUTH FOR: coreless_battery00002947
+label: 158.0 || 370.0 || 242.0 || 514.0 || 1
+
+GROUND TRUTH FOR: core_battery00002645
+label: 313.0 || 340.0 || 507.0 || 407.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9461) 305.91043 || 320.94678 || 510.28094 || 420.72482
+
+GROUND TRUTH FOR: core_battery00002684
+label: 660.0 || 453.0 || 784.0 || 577.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001762
+label: 470.0 || 530.0 || 560.0 || 620.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002116
+label: 710.0 || 591.0 || 866.0 || 693.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8850) 697.4498 || 593.97797 || 881.93866 || 702.4269
+
+GROUND TRUTH FOR: core_battery00000303
+label: 1031.0 || 712.0 || 1174.0 || 789.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002651
+label: 145.0 || 347.0 || 340.0 || 432.0 || 1
+label: 600.0 || 343.0 || 735.0 || 486.0 || 1
+label: 1723.0 || 776.0 || 1825.0 || 951.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8476) 164.7801 || 353.38214 || 353.97418 || 457.36487
+2 label: coreless score: tensor(0.6208) 588.6543 || 334.36365 || 745.3342 || 462.86932
+
+GROUND TRUTH FOR: core_battery00002214
+label: 58.0 || 653.0 || 176.0 || 766.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8706) 58.50474 || 649.90594 || 170.94052 || 755.81635
+
+GROUND TRUTH FOR: core_battery00003850
+label: 658.0 || 641.0 || 704.0 || 831.0 || 0
+
+GROUND TRUTH FOR: core_battery00001691
+label: 884.0 || 307.0 || 957.0 || 379.0 || 0
+
+GROUND TRUTH FOR: core_battery00000405
+label: 30.0 || 363.0 || 128.0 || 466.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6925) 24.133503 || 364.87354 || 129.6365 || 499.21725
+
+GROUND TRUTH FOR: coreless_battery00001187
+label: 209.0 || 325.0 || 364.0 || 396.0 || 1
+
+GROUND TRUTH FOR: core_battery00001029
+label: 774.0 || 430.0 || 983.0 || 614.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6633) 806.35785 || 450.84848 || 928.6235 || 608.5664
+
+GROUND TRUTH FOR: core_battery00002473
+label: 1102.0 || 447.0 || 1232.0 || 544.0 || 0
+label: 1246.0 || 690.0 || 1305.0 || 758.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7676) 1098.9181 || 433.96283 || 1251.3129 || 556.84094
+
+GROUND TRUTH FOR: coreless_battery00004983
+label: 88.0 || 634.0 || 333.0 || 787.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8584) 123.13172 || 664.5265 || 321.07794 || 773.9844
+
+GROUND TRUTH FOR: coreless_battery00004590
+label: 631.0 || 390.0 || 838.0 || 522.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00000468
+label: 49.0 || 812.0 || 202.0 || 869.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003824
+label: 406.0 || 805.0 || 567.0 || 892.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7155) 408.5181 || 798.7437 || 579.09845 || 886.68274
+
+GROUND TRUTH FOR: core_battery00002646
+label: 34.0 || 733.0 || 155.0 || 856.0 || 0
+label: 692.0 || 558.0 || 793.0 || 645.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9035) 33.897343 || 737.8708 || 156.5312 || 863.7736
+2 label: core score: tensor(0.8386) 696.8263 || 540.50275 || 812.9421 || 652.7825
+
+GROUND TRUTH FOR: core_battery00001364
+label: 675.0 || 673.0 || 804.0 || 775.0 || 0
+
+GROUND TRUTH FOR: core_battery00003290
+label: 366.0 || 358.0 || 440.0 || 551.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8232) 360.22708 || 356.68112 || 443.65085 || 560.7355
+
+GROUND TRUTH FOR: core_battery00001802
+label: 298.0 || 578.0 || 407.0 || 748.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8531) 308.9728 || 565.00977 || 412.6805 || 746.37604
+
+GROUND TRUTH FOR: coreless_battery00004522
+label: 698.0 || 507.0 || 865.0 || 683.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003644
+label: 48.0 || 365.0 || 219.0 || 657.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004790
+label: 41.0 || 393.0 || 202.0 || 568.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9171) 91.03955 || 406.23358 || 172.49007 || 574.06616
+
+GROUND TRUTH FOR: core_battery00001309
+label: 1810.0 || 806.0 || 1992.0 || 890.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8316) 1822.1128 || 806.8 || 1985.6743 || 898.6328
+
+GROUND TRUTH FOR: coreless_battery00005093
+label: 38.0 || 517.0 || 134.0 || 679.0 || 1
+
+GROUND TRUTH FOR: core_battery00002047
+label: 289.0 || 385.0 || 419.0 || 618.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9564) 304.45496 || 397.49374 || 440.186 || 612.17426
+
+GROUND TRUTH FOR: coreless_battery00003451
+label: 128.0 || 333.0 || 282.0 || 451.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00000959
+label: 843.0 || 782.0 || 1001.0 || 869.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8308) 853.0199 || 778.64655 || 1002.60706 || 879.4925
+
+GROUND TRUTH FOR: coreless_battery00004449
+label: 611.0 || 364.0 || 784.0 || 479.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7037) 539.04785 || 369.10934 || 774.50653 || 478.82635
+
+GROUND TRUTH FOR: coreless_battery00002621
+label: 247.0 || 428.0 || 439.0 || 566.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002794
+label: 1243.0 || 330.0 || 1314.0 || 462.0 || 1
+
+GROUND TRUTH FOR: core_battery00005708
+label: 362.0 || 882.0 || 465.0 || 957.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9341) 339.6743 || 880.94275 || 486.441 || 953.77435
+
+GROUND TRUTH FOR: coreless_battery00003637
+label: 73.0 || 816.0 || 240.0 || 911.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9913) 62.26922 || 810.28687 || 248.90433 || 912.5797
+
+GROUND TRUTH FOR: coreless_battery00003028
+label: 868.0 || 576.0 || 1008.0 || 726.0 || 1
+
+GROUND TRUTH FOR: core_battery00003913
+label: 72.0 || 397.0 || 159.0 || 566.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9450) 78.41246 || 393.42505 || 153.31741 || 557.7818
+
+GROUND TRUTH FOR: core_battery00004067
+label: 586.0 || 376.0 || 700.0 || 597.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9692) 578.9247 || 382.35764 || 701.75006 || 592.5017
+
+GROUND TRUTH FOR: coreless_battery00000284
+label: 264.0 || 665.0 || 342.0 || 836.0 || 1
+label: 555.0 || 670.0 || 650.0 || 801.0 || 1
+label: 865.0 || 647.0 || 1008.0 || 730.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9285) 847.30475 || 636.07745 || 1008.6897 || 734.46326
+
+GROUND TRUTH FOR: coreless_battery00004333
+label: 244.0 || 365.0 || 396.0 || 445.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001673
+label: 399.0 || 492.0 || 460.0 || 593.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6968) 377.54834 || 467.50745 || 485.88675 || 586.998
+
+GROUND TRUTH FOR: core_battery00000151
+label: 95.0 || 837.0 || 204.0 || 919.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9286) 98.29428 || 832.7176 || 212.22142 || 928.0948
+
+GROUND TRUTH FOR: coreless_battery00003810
+label: 381.0 || 327.0 || 478.0 || 518.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9458) 372.50412 || 331.62885 || 494.03458 || 525.39966
+
+GROUND TRUTH FOR: coreless_battery00005485
+label: 119.0 || 775.0 || 303.0 || 908.0 || 1
+
+GROUND TRUTH FOR: core_battery00002032
+label: 731.0 || 577.0 || 806.0 || 714.0 || 0
+label: 813.0 || 608.0 || 965.0 || 769.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7554) 796.6368 || 609.1091 || 988.6842 || 756.2348
+
+GROUND TRUTH FOR: coreless_battery00005248
+label: 24.0 || 380.0 || 262.0 || 520.0 || 1
+
+GROUND TRUTH FOR: core_battery00001180
+label: 78.0 || 461.0 || 188.0 || 550.0 || 0
+label: 1014.0 || 531.0 || 1149.0 || 647.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9151) 1016.82764 || 535.7909 || 1135.5471 || 633.2007
+2 label: core score: tensor(0.7455) 71.7549 || 458.06522 || 193.04759 || 553.5853
+
+GROUND TRUTH FOR: coreless_battery00003992
+label: 294.0 || 648.0 || 400.0 || 883.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9941) 290.4209 || 643.27527 || 394.81256 || 867.9138
+
+GROUND TRUTH FOR: core_battery00004986
+label: 1735.0 || 632.0 || 1801.0 || 778.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000182
+label: 234.0 || 370.0 || 400.0 || 472.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8598) 231.97025 || 358.73938 || 400.6805 || 465.91266
+
+GROUND TRUTH FOR: core_battery00004832
+label: 91.0 || 470.0 || 203.0 || 558.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00004456
+label: 209.0 || 803.0 || 409.0 || 927.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7435) 204.82065 || 814.5916 || 392.90085 || 922.8735
+
+GROUND TRUTH FOR: core_battery00000394
+label: 330.0 || 508.0 || 405.0 || 657.0 || 0
+
+GROUND TRUTH FOR: core_battery00002745
+label: 152.0 || 754.0 || 269.0 || 849.0 || 0
+label: 1026.0 || 773.0 || 1185.0 || 866.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.6691) 147.48303 || 752.5057 || 265.44745 || 847.9575
+2 label: coreless score: tensor(0.9670) 1020.5226 || 762.3387 || 1194.5532 || 867.50543
+
+GROUND TRUTH FOR: coreless_battery00003298
+label: 597.0 || 348.0 || 750.0 || 447.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6308) 576.8689 || 338.04047 || 741.86066 || 442.13492
+
+GROUND TRUTH FOR: core_battery00001593
+label: 1780.0 || 349.0 || 1920.0 || 469.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7159) 1806.6901 || 347.41217 || 1910.2028 || 461.52338
+
+GROUND TRUTH FOR: coreless_battery00001068
+label: 438.0 || 766.0 || 567.0 || 890.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6552) 418.25677 || 757.4213 || 560.8847 || 876.55066
+
+GROUND TRUTH FOR: core_battery00005151
+label: 57.0 || 409.0 || 386.0 || 926.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7707) 77.49924 || 432.33514 || 204.29913 || 523.7328
+2 label: core score: tensor(0.6876) 183.91528 || 612.9738 || 312.08643 || 696.2478
+3 label: core score: tensor(0.6120) 226.81873 || 454.61337 || 316.75766 || 575.605
+
+GROUND TRUTH FOR: coreless_battery00002622
+label: 1800.0 || 400.0 || 1926.0 || 545.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002092
+label: 126.0 || 408.0 || 300.0 || 533.0 || 1
+label: 1171.0 || 435.0 || 1278.0 || 573.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7650) 1171.6985 || 440.4227 || 1274.8888 || 568.65906
+2 label: coreless score: tensor(0.8276) 135.35786 || 413.16296 || 308.15985 || 542.872
+
+GROUND TRUTH FOR: core_battery00005684
+label: 485.0 || 508.0 || 585.0 || 636.0 || 0
+label: 1012.0 || 520.0 || 1137.0 || 608.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002390
+label: 311.0 || 534.0 || 487.0 || 617.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9416) 314.15714 || 524.92456 || 484.84613 || 623.7353
+
+GROUND TRUTH FOR: coreless_battery00004046
+label: 83.0 || 528.0 || 288.0 || 649.0 || 1
+label: 66.0 || 654.0 || 195.0 || 811.0 || 1
+
+GROUND TRUTH FOR: core_battery00000866
+label: 57.0 || 635.0 || 131.0 || 753.0 || 0
+
+GROUND TRUTH FOR: core_battery00000058
+label: 1099.0 || 758.0 || 1259.0 || 876.0 || 0
+label: 164.0 || 455.0 || 197.0 || 619.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8677) 1081.3433 || 761.2219 || 1255.5145 || 873.6857
+
+GROUND TRUTH FOR: coreless_battery00003523
+label: 227.0 || 733.0 || 372.0 || 900.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8727) 234.30133 || 711.2304 || 367.9483 || 895.1384
+
+GROUND TRUTH FOR: core_battery00004207
+label: 179.0 || 375.0 || 278.0 || 470.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9145) 173.78941 || 367.81796 || 280.08197 || 478.60913
+
+GROUND TRUTH FOR: core_battery00001254
+label: 1506.0 || 425.0 || 1650.0 || 495.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7327) 1488.2858 || 408.61072 || 1672.4117 || 492.8794
+
+GROUND TRUTH FOR: core_battery00001200
+label: 589.0 || 369.0 || 711.0 || 480.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9113) 594.8603 || 361.4968 || 697.6765 || 475.71463
+
+GROUND TRUTH FOR: coreless_battery00000109
+label: 644.0 || 459.0 || 712.0 || 641.0 || 1
+label: 1542.0 || 483.0 || 1595.0 || 557.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005711
+label: 212.0 || 366.0 || 338.0 || 538.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7261) 210.8609 || 360.1263 || 352.4707 || 508.2159
+
+GROUND TRUTH FOR: coreless_battery00001862
+label: 1350.0 || 348.0 || 1442.0 || 488.0 || 1
+
+GROUND TRUTH FOR: core_battery00004474
+label: 1382.0 || 448.0 || 1507.0 || 605.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003658
+label: 1422.0 || 511.0 || 1569.0 || 734.0 || 1
+
+GROUND TRUTH FOR: core_battery00004990
+label: 649.0 || 338.0 || 828.0 || 456.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7983) 638.71 || 351.8911 || 831.306 || 444.61987
+
+GROUND TRUTH FOR: core_battery00002637
+label: 888.0 || 436.0 || 960.0 || 560.0 || 0
+label: 1811.0 || 806.0 || 1984.0 || 950.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6086) 1822.9967 || 793.33356 || 1962.6334 || 943.9801
+
+GROUND TRUTH FOR: core_battery00004457
+label: 347.0 || 664.0 || 470.0 || 870.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8778) 347.73856 || 656.62244 || 467.68558 || 868.6108
+
+GROUND TRUTH FOR: coreless_battery00000983
+label: 80.0 || 472.0 || 268.0 || 556.0 || 1
+
+GROUND TRUTH FOR: core_battery00002122
+label: 1201.0 || 623.0 || 1281.0 || 746.0 || 0
+
+GROUND TRUTH FOR: core_battery00003245
+label: 286.0 || 369.0 || 439.0 || 514.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6353) 268.32343 || 364.432 || 402.4032 || 527.7063
+
+GROUND TRUTH FOR: coreless_battery00001390
+label: 1677.0 || 770.0 || 1790.0 || 853.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005436
+label: 195.0 || 791.0 || 393.0 || 908.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8655) 191.24898 || 773.1587 || 396.4273 || 899.3903
+
+GROUND TRUTH FOR: coreless_battery00003197
+label: 1098.0 || 479.0 || 1253.0 || 593.0 || 1
+label: 1546.0 || 456.0 || 1703.0 || 646.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6739) 1124.4197 || 489.61267 || 1259.5326 || 581.1665
+
+GROUND TRUTH FOR: coreless_battery00002320
+label: 547.0 || 365.0 || 662.0 || 556.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6534) 542.80383 || 359.95908 || 674.64636 || 568.9001
+
+GROUND TRUTH FOR: coreless_battery00004217
+label: 272.0 || 839.0 || 424.0 || 951.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6558) 265.61014 || 796.4278 || 419.87292 || 955.9402
+
+GROUND TRUTH FOR: core_battery00001166
+label: 732.0 || 548.0 || 852.0 || 592.0 || 0
+
+GROUND TRUTH FOR: core_battery00003748
+label: 679.0 || 490.0 || 800.0 || 689.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9670) 682.0943 || 491.65897 || 794.23254 || 684.60986
+
+GROUND TRUTH FOR: coreless_battery00003609
+label: 154.0 || 562.0 || 252.0 || 746.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9101) 146.62956 || 555.21185 || 263.15356 || 731.5164
+
+GROUND TRUTH FOR: core_battery00005720
+label: 186.0 || 347.0 || 310.0 || 472.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9774) 196.20155 || 350.95883 || 321.292 || 464.32297
+
+GROUND TRUTH FOR: coreless_battery00001890
+label: 230.0 || 483.0 || 332.0 || 658.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9607) 228.09325 || 483.2429 || 324.58752 || 659.7285
+
+GROUND TRUTH FOR: core_battery00003939
+label: -3.0 || 319.0 || 154.0 || 408.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003605
+label: 1008.0 || 375.0 || 1171.0 || 500.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00000683
+label: 839.0 || 519.0 || 923.0 || 639.0 || 1
+
+GROUND TRUTH FOR: core_battery00001791
+label: 204.0 || 635.0 || 363.0 || 696.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005548
+label: 952.0 || 610.0 || 1134.0 || 799.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9285) 933.41205 || 599.99536 || 1143.0616 || 777.82605
+
+GROUND TRUTH FOR: core_battery00001416
+label: 251.0 || 617.0 || 379.0 || 744.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001980
+label: 1817.0 || 563.0 || 1930.0 || 724.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6055) 1816.0154 || 559.6488 || 1896.7368 || 676.48224
+
+GROUND TRUTH FOR: core_battery00002120
+label: 83.0 || 379.0 || 201.0 || 487.0 || 0
+
+GROUND TRUTH FOR: core_battery00000236
+label: 3.0 || 550.0 || 114.0 || 660.0 || 0
+
+GROUND TRUTH FOR: core_battery00005443
+label: 931.0 || 557.0 || 1070.0 || 639.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6927) 936.0917 || 556.13916 || 1060.4172 || 636.88727
+
+GROUND TRUTH FOR: core_battery00000309
+label: 1097.0 || 694.0 || 1183.0 || 836.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005610
+label: 185.0 || 756.0 || 370.0 || 867.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9463) 198.33821 || 751.2221 || 375.9913 || 855.4704
+
+GROUND TRUTH FOR: coreless_battery00003335
+label: 1727.0 || 694.0 || 1901.0 || 812.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7272) 1724.5509 || 701.8906 || 1889.9584 || 813.3017
+
+GROUND TRUTH FOR: core_battery00004005
+label: 132.0 || 729.0 || 323.0 || 830.0 || 0
+
+GROUND TRUTH FOR: core_battery00002705
+label: 47.0 || 602.0 || 259.0 || 700.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003044
+label: 957.0 || 466.0 || 1030.0 || 582.0 || 1
+label: 947.0 || 568.0 || 1087.0 || 716.0 || 0
+
+GROUND TRUTH FOR: core_battery00003164
+label: 196.0 || 341.0 || 390.0 || 514.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6859) 217.96724 || 396.58514 || 378.68542 || 528.97644
+
+GROUND TRUTH FOR: coreless_battery00002706
+label: 868.0 || 507.0 || 995.0 || 721.0 || 1
+label: 1145.0 || 764.0 || 1348.0 || 881.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7702) 1152.8456 || 756.8532 || 1343.8113 || 883.6146
+2 label: coreless score: tensor(0.8676) 862.0031 || 506.8135 || 993.2805 || 749.0472
+
+GROUND TRUTH FOR: coreless_battery00002485
+label: 141.0 || 547.0 || 353.0 || 660.0 || 1
+
+GROUND TRUTH FOR: core_battery00004961
+label: 490.0 || 620.0 || 631.0 || 709.0 || 0
+
+GROUND TRUTH FOR: core_battery00005220
+label: 1168.0 || 403.0 || 1271.0 || 523.0 || 0
+
+GROUND TRUTH FOR: core_battery00000922
+label: 164.0 || 412.0 || 291.0 || 495.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6094) 159.7615 || 417.2027 || 268.74036 || 493.46423
+
+GROUND TRUTH FOR: coreless_battery00000062
+label: 57.0 || 603.0 || 144.0 || 755.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9337) 42.718044 || 583.36945 || 150.76283 || 765.17694
+
+GROUND TRUTH FOR: coreless_battery00001947
+label: 523.0 || 726.0 || 674.0 || 808.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8726) 523.8575 || 710.9137 || 687.94586 || 809.97534
+
+GROUND TRUTH FOR: core_battery00000962
+label: 618.0 || 607.0 || 677.0 || 811.0 || 0
+
+GROUND TRUTH FOR: core_battery00004848
+label: 1417.0 || 706.0 || 1609.0 || 838.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7097) 1430.7695 || 709.31067 || 1584.9142 || 835.9943
+
+GROUND TRUTH FOR: core_battery00000929
+label: 1267.0 || 333.0 || 1318.0 || 466.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001697
+label: 340.0 || 499.0 || 368.0 || 655.0 || 1
+
+GROUND TRUTH FOR: core_battery00001350
+label: 522.0 || 863.0 || 675.0 || 933.0 || 0
+label: 851.0 || 787.0 || 974.0 || 914.0 || 0
+label: 1245.0 || 582.0 || 1284.0 || 691.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7897) 535.3315 || 862.3431 || 655.32074 || 936.12396
+
+GROUND TRUTH FOR: core_battery00002935
+label: 151.0 || 696.0 || 268.0 || 769.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000726
+label: 536.0 || 458.0 || 623.0 || 592.0 || 1
+
+GROUND TRUTH FOR: core_battery00001258
+label: 407.0 || 715.0 || 565.0 || 783.0 || 0
+label: 414.0 || 474.0 || 545.0 || 574.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8856) 404.4908 || 462.94788 || 532.6661 || 572.71234
+
+GROUND TRUTH FOR: core_battery00005782
+label: 414.0 || 339.0 || 580.0 || 435.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7632) 439.35968 || 355.27917 || 580.15466 || 432.94876
+
+GROUND TRUTH FOR: core_battery00005647
+label: 671.0 || 671.0 || 805.0 || 767.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7226) 676.5201 || 682.39606 || 799.1148 || 769.2261
+
+GROUND TRUTH FOR: coreless_battery00002543
+label: 151.0 || 384.0 || 325.0 || 472.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9603) 141.73033 || 369.02682 || 335.306 || 477.30054
+
+GROUND TRUTH FOR: core_battery00000157
+label: 55.0 || 768.0 || 125.0 || 902.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002318
+label: 54.0 || 542.0 || 252.0 || 629.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7929) 73.86041 || 522.86884 || 257.80045 || 639.8185
+
+GROUND TRUTH FOR: core_battery00001095
+label: 1877.0 || 496.0 || 1994.0 || 588.0 || 0
+
+GROUND TRUTH FOR: core_battery00002541
+label: 49.0 || 660.0 || 119.0 || 824.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7678) 50.673027 || 642.3385 || 115.440834 || 836.3583
+
+GROUND TRUTH FOR: coreless_battery00005873
+label: 1886.0 || 407.0 || 1977.0 || 590.0 || 1
+
+GROUND TRUTH FOR: core_battery00000986
+label: 549.0 || 333.0 || 642.0 || 470.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9415) 553.0357 || 339.64276 || 645.09045 || 460.41638
+
+GROUND TRUTH FOR: core_battery00003916
+label: 208.0 || 719.0 || 342.0 || 836.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8774) 216.01364 || 700.5298 || 354.82898 || 841.546
+
+GROUND TRUTH FOR: coreless_battery00000946
+label: 817.0 || 702.0 || 941.0 || 866.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005664
+label: 746.0 || 475.0 || 840.0 || 638.0 || 1
+label: 1875.0 || 457.0 || 1964.0 || 638.0 || 0
+
+GROUND TRUTH FOR: core_battery00002630
+label: 395.0 || 354.0 || 529.0 || 462.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9530) 406.86584 || 355.00552 || 528.2338 || 466.0153
+
+GROUND TRUTH FOR: coreless_battery00001717
+label: 53.0 || 466.0 || 154.0 || 622.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8635) 66.035995 || 470.7477 || 151.26726 || 620.6502
+
+GROUND TRUTH FOR: coreless_battery00001197
+label: 941.0 || 678.0 || 1048.0 || 824.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7982) 937.1784 || 656.07935 || 1042.5073 || 841.4733
+
+GROUND TRUTH FOR: core_battery00005330
+label: 1188.0 || 474.0 || 1341.0 || 629.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6760) 1194.6191 || 501.54663 || 1336.4232 || 640.12396
+
+GROUND TRUTH FOR: coreless_battery00002029
+label: 33.0 || 729.0 || 240.0 || 818.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005075
+label: 83.0 || 437.0 || 197.0 || 651.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9895) 78.765915 || 438.15936 || 198.68869 || 639.7245
+
+GROUND TRUTH FOR: core_battery00001184
+label: 694.0 || 497.0 || 768.0 || 669.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8903) 678.2902 || 496.09738 || 781.7145 || 680.2216
+
+GROUND TRUTH FOR: core_battery00001957
+label: 1813.0 || 828.0 || 1985.0 || 931.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9564) 1823.3445 || 812.36066 || 2008.0712 || 937.11206
+
+GROUND TRUTH FOR: core_battery00003121
+label: 615.0 || 333.0 || 773.0 || 403.0 || 0
+
+GROUND TRUTH FOR: core_battery00002086
+label: 483.0 || 507.0 || 640.0 || 613.0 || 0
+
+GROUND TRUTH FOR: core_battery00003287
+label: 247.0 || 415.0 || 431.0 || 518.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8786) 231.36353 || 419.59222 || 420.33432 || 528.4459
+
+GROUND TRUTH FOR: coreless_battery00004615
+label: 1407.0 || 729.0 || 1566.0 || 876.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8484) 1386.5942 || 754.721 || 1562.0355 || 863.4884
+
+GROUND TRUTH FOR: core_battery00003815
+label: 968.0 || 659.0 || 1081.0 || 808.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8972) 949.4182 || 662.0897 || 1083.4434 || 812.0031
+
+GROUND TRUTH FOR: core_battery00004368
+label: 804.0 || 362.0 || 976.0 || 514.0 || 0
+label: 1245.0 || 474.0 || 1385.0 || 617.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.8604) 802.1184 || 380.7064 || 975.9634 || 499.207
+
+GROUND TRUTH FOR: coreless_battery00003988
+label: 416.0 || 488.0 || 616.0 || 599.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9426) 428.00626 || 486.0162 || 603.22626 || 588.46533
+
+GROUND TRUTH FOR: coreless_battery00005706
+label: 327.0 || 432.0 || 444.0 || 584.0 || 1
+label: 347.0 || 560.0 || 449.0 || 777.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9688) 332.25848 || 534.0727 || 456.1657 || 759.9307
+
+GROUND TRUTH FOR: core_battery00003638
+label: 379.0 || 726.0 || 536.0 || 806.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6289) 373.7729 || 731.9093 || 504.3669 || 783.0342
+
+GROUND TRUTH FOR: coreless_battery00004170
+label: 471.0 || 557.0 || 633.0 || 734.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8299) 489.98184 || 554.09174 || 622.4889 || 719.898
+
+GROUND TRUTH FOR: core_battery00002236
+label: 266.0 || 640.0 || 427.0 || 786.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8944) 292.0784 || 649.6583 || 392.24557 || 746.4336
+
+GROUND TRUTH FOR: core_battery00001783
+label: 115.0 || 348.0 || 274.0 || 391.0 || 0
+
+GROUND TRUTH FOR: core_battery00000144
+label: 448.0 || 820.0 || 535.0 || 955.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8320) 449.55148 || 802.03656 || 533.11365 || 942.40454
+
+GROUND TRUTH FOR: core_battery00005378
+label: 530.0 || 452.0 || 666.0 || 518.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005407
+label: 1520.0 || 591.0 || 1613.0 || 783.0 || 1
+
+GROUND TRUTH FOR: core_battery00005182
+label: 73.0 || 297.0 || 224.0 || 370.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001156
+label: 1107.0 || 667.0 || 1249.0 || 827.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001996
+label: 84.0 || 592.0 || 267.0 || 702.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8080) 73.622055 || 604.282 || 257.96182 || 695.8087
+
+GROUND TRUTH FOR: coreless_battery00001397
+label: 61.0 || 703.0 || 159.0 || 860.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9505) 52.09537 || 683.2304 || 159.1234 || 860.94244
+
+GROUND TRUTH FOR: core_battery00001748
+label: 445.0 || 515.0 || 499.0 || 610.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000801
+label: 945.0 || 398.0 || 1045.0 || 585.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003127
+label: 211.0 || 624.0 || 406.0 || 743.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9168) 212.18542 || 632.51355 || 391.04205 || 755.1572
+
+GROUND TRUTH FOR: coreless_battery00001343
+label: 949.0 || 414.0 || 1152.0 || 490.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9084) 970.5728 || 412.62488 || 1145.0393 || 512.1688
+
+GROUND TRUTH FOR: coreless_battery00001451
+label: 681.0 || 643.0 || 825.0 || 784.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9106) 669.7485 || 645.14795 || 807.5503 || 766.34296
+
+GROUND TRUTH FOR: core_battery00005511
+label: 304.0 || 444.0 || 418.0 || 624.0 || 0
+label: 1819.0 || 404.0 || 1890.0 || 609.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001911
+label: 252.0 || 737.0 || 350.0 || 926.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8881) 254.4267 || 685.8766 || 351.77365 || 920.78516
+
+GROUND TRUTH FOR: core_battery00002518
+label: 1236.0 || 752.0 || 1355.0 || 855.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7434) 1247.6335 || 750.12134 || 1357.3274 || 857.2077
+
+GROUND TRUTH FOR: core_battery00004371
+label: 796.0 || 641.0 || 1008.0 || 869.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9009) 793.9812 || 637.436 || 974.7944 || 854.2002
+2 label: core score: tensor(0.7837) 1916.2352 || 711.80115 || 2000.6273 || 813.03217
+
+GROUND TRUTH FOR: core_battery00004158
+label: 955.0 || 573.0 || 1026.0 || 722.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000883
+label: 442.0 || 377.0 || 596.0 || 452.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7732) 449.02176 || 359.74307 || 624.3273 || 451.18683
+
+GROUND TRUTH FOR: core_battery00002433
+label: 59.0 || 649.0 || 183.0 || 744.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9688) 60.84084 || 637.25903 || 184.16292 || 749.0472
+
+GROUND TRUTH FOR: coreless_battery00004291
+label: 318.0 || 460.0 || 539.0 || 570.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8676) 343.31036 || 460.28665 || 539.9018 || 573.8409
+
+GROUND TRUTH FOR: coreless_battery00005584
+label: 608.0 || 727.0 || 833.0 || 847.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8435) 604.4258 || 731.42706 || 838.94446 || 851.1386
+
+GROUND TRUTH FOR: coreless_battery00003917
+label: 554.0 || 736.0 || 625.0 || 882.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7504) 530.12384 || 692.81934 || 627.03595 || 869.3314
+
+GROUND TRUTH FOR: core_battery00004496
+label: 925.0 || 650.0 || 1135.0 || 738.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6983) 921.13654 || 645.24133 || 1131.4946 || 740.3079
+
+GROUND TRUTH FOR: core_battery00002431
+label: 537.0 || 554.0 || 635.0 || 672.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00004667
+label: 307.0 || 299.0 || 494.0 || 458.0 || 1
+
+GROUND TRUTH FOR: core_battery00000121
+label: 865.0 || 502.0 || 963.0 || 646.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6888) 841.83167 || 490.98917 || 976.28064 || 650.4557
+
+GROUND TRUTH FOR: coreless_battery00004735
+label: 1470.0 || 381.0 || 1581.0 || 568.0 || 1
+
+GROUND TRUTH FOR: core_battery00005786
+label: 255.0 || 352.0 || 397.0 || 471.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7349) 262.53757 || 344.26062 || 404.8083 || 459.4039
+
+GROUND TRUTH FOR: coreless_battery00001392
+label: 149.0 || 656.0 || 298.0 || 841.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9603) 160.13005 || 658.246 || 270.50034 || 844.7034
+
+GROUND TRUTH FOR: coreless_battery00002761
+label: 1189.0 || 842.0 || 1382.0 || 951.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9403) 1183.8005 || 841.9766 || 1370.8054 || 950.0788
+
+GROUND TRUTH FOR: coreless_battery00005597
+label: 180.0 || 420.0 || 292.0 || 608.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001520
+label: 239.0 || 556.0 || 346.0 || 744.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9114) 246.26994 || 571.25397 || 337.971 || 748.05005
+
+GROUND TRUTH FOR: core_battery00000385
+label: 117.0 || 485.0 || 225.0 || 581.0 || 0
+
+GROUND TRUTH FOR: core_battery00003641
+label: 109.0 || 582.0 || 251.0 || 642.0 || 0
+label: 499.0 || 705.0 || 678.0 || 791.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.6469) 120.42977 || 567.25354 || 252.54553 || 653.49725
+2 label: coreless score: tensor(0.9454) 483.53915 || 696.8952 || 696.8678 || 795.8249
+
+GROUND TRUTH FOR: coreless_battery00000867
+label: 57.0 || 690.0 || 122.0 || 879.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7856) 40.16913 || 671.4461 || 146.58232 || 862.14166
+
+GROUND TRUTH FOR: core_battery00004887
+label: 524.0 || 782.0 || 691.0 || 928.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7847) 548.48096 || 790.56335 || 666.68024 || 908.0976
+
+GROUND TRUTH FOR: coreless_battery00004030
+label: 111.0 || 427.0 || 274.0 || 570.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7555) 107.600105 || 431.0932 || 265.79944 || 529.7292
+
+GROUND TRUTH FOR: core_battery00001395
+label: 1277.0 || 382.0 || 1460.0 || 451.0 || 0
+label: 1769.0 || 746.0 || 1903.0 || 831.0 || 1
+
+GROUND TRUTH FOR: core_battery00000123
+label: 124.0 || 533.0 || 211.0 || 603.0 || 0
+
+GROUND TRUTH FOR: core_battery00004574
+label: 257.0 || 357.0 || 358.0 || 470.0 || 0
+
+GROUND TRUTH FOR: core_battery00001399
+label: 641.0 || 367.0 || 841.0 || 465.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9720) 649.46277 || 364.46136 || 850.0239 || 465.86453
+
+GROUND TRUTH FOR: core_battery00004410
+label: 116.0 || 662.0 || 284.0 || 777.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7968) 145.70119 || 657.34973 || 281.66888 || 762.7773
+
+GROUND TRUTH FOR: coreless_battery00003734
+label: 477.0 || 676.0 || 564.0 || 840.0 || 1
+
+GROUND TRUTH FOR: core_battery00004345
+label: 124.0 || 336.0 || 240.0 || 406.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6127) 148.79182 || 342.91608 || 253.98065 || 420.93967
+
+GROUND TRUTH FOR: coreless_battery00005237
+label: 492.0 || 413.0 || 739.0 || 550.0 || 1
+label: 742.0 || 605.0 || 809.0 || 728.0 || 0
+
+GROUND TRUTH FOR: core_battery00001507
+label: 779.0 || 758.0 || 826.0 || 910.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000879
+label: -2.0 || 626.0 || 62.0 || 768.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003590
+label: 1216.0 || 406.0 || 1357.0 || 609.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001133
+label: 297.0 || 806.0 || 442.0 || 890.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001577
+label: 1029.0 || 512.0 || 1181.0 || 711.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6887) 1028.0482 || 496.41107 || 1190.7404 || 695.5523
+
+GROUND TRUTH FOR: core_battery00004167
+label: 155.0 || 565.0 || 276.0 || 740.0 || 0
+
+GROUND TRUTH FOR: core_battery00004292
+label: 439.0 || 543.0 || 553.0 || 654.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002423
+label: 979.0 || 373.0 || 1118.0 || 459.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7100) 950.913 || 340.06378 || 1143.2775 || 449.30936
+
+GROUND TRUTH FOR: core_battery00001236
+label: 62.0 || 627.0 || 218.0 || 725.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8964) 80.81219 || 626.15533 || 206.77618 || 726.74194
+
+GROUND TRUTH FOR: coreless_battery00002542
+label: 91.0 || 525.0 || 224.0 || 700.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9067) 93.7654 || 523.5558 || 217.19078 || 702.7633
+
+GROUND TRUTH FOR: core_battery00002343
+label: 194.0 || 419.0 || 303.0 || 536.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9141) 191.42136 || 409.92706 || 298.26987 || 547.6236
+
+GROUND TRUTH FOR: core_battery00003214
+label: 312.0 || 691.0 || 463.0 || 836.0 || 0
+
+GROUND TRUTH FOR: core_battery00004138
+label: 242.0 || 512.0 || 428.0 || 622.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7948) 228.00375 || 520.05707 || 447.10168 || 626.6507
+
+GROUND TRUTH FOR: coreless_battery00002854
+label: 153.0 || 458.0 || 241.0 || 615.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8074) 125.59393 || 446.32822 || 231.85852 || 614.76373
+
+GROUND TRUTH FOR: coreless_battery00004956
+label: 117.0 || 435.0 || 270.0 || 651.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7062) 127.67023 || 461.5297 || 269.72208 || 652.4086
+
+GROUND TRUTH FOR: core_battery00003420
+label: 376.0 || 554.0 || 418.0 || 655.0 || 0
+
+GROUND TRUTH FOR: core_battery00000296
+label: 930.0 || 366.0 || 1040.0 || 449.0 || 0
+
+GROUND TRUTH FOR: core_battery00001710
+label: 780.0 || 379.0 || 865.0 || 468.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005219
+label: 462.0 || 810.0 || 652.0 || 914.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9280) 448.32156 || 810.5478 || 628.26306 || 920.20013
+
+GROUND TRUTH FOR: coreless_battery00005244
+label: 97.0 || 591.0 || 312.0 || 753.0 || 1
+
+GROUND TRUTH FOR: core_battery00000902
+label: 1004.0 || 816.0 || 1108.0 || 899.0 || 0
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6721) 1890.2909 || 583.8802 || 1995.6741 || 669.81024
+
+GROUND TRUTH FOR: coreless_battery00005350
+label: 486.0 || 540.0 || 636.0 || 649.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8925) 490.6853 || 535.94855 || 629.7111 || 650.27344
+
+GROUND TRUTH FOR: coreless_battery00002168
+label: 564.0 || 743.0 || 748.0 || 857.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9338) 544.48145 || 753.13055 || 723.0924 || 865.19916
+
+GROUND TRUTH FOR: core_battery00005831
+label: 1092.0 || 623.0 || 1236.0 || 751.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7619) 1085.3604 || 629.2178 || 1212.0271 || 748.6719
+
+GROUND TRUTH FOR: coreless_battery00003816
+label: 756.0 || 655.0 || 948.0 || 737.0 || 1
+label: 1095.0 || 588.0 || 1277.0 || 722.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7174) 1109.9072 || 587.17737 || 1275.4861 || 715.8545
+
+GROUND TRUTH FOR: coreless_battery00004035
+label: 1495.0 || 563.0 || 1637.0 || 715.0 || 1
+
+GROUND TRUTH FOR: core_battery00002414
+label: 285.0 || 598.0 || 411.0 || 762.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000950
+label: 270.0 || 440.0 || 364.0 || 562.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003344
+label: 129.0 || 591.0 || 323.0 || 685.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9769) 134.14932 || 578.26996 || 316.66125 || 687.2457
+
+GROUND TRUTH FOR: core_battery00005727
+label: 1350.0 || 416.0 || 1538.0 || 533.0 || 0
+
+GROUND TRUTH FOR: core_battery00005476
+label: 121.0 || 355.0 || 244.0 || 464.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001732
+label: 606.0 || 635.0 || 767.0 || 749.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6865) 611.2909 || 642.1005 || 773.53986 || 736.94257
+
+GROUND TRUTH FOR: coreless_battery00002284
+label: 1069.0 || 574.0 || 1263.0 || 717.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004071
+label: 404.0 || 605.0 || 589.0 || 712.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8850) 408.44122 || 599.1367 || 600.2749 || 699.56934
+
+GROUND TRUTH FOR: core_battery00003446
+label: 473.0 || 715.0 || 652.0 || 817.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8309) 467.57602 || 722.3567 || 630.9461 || 824.9512
+
+GROUND TRUTH FOR: core_battery00004654
+label: 89.0 || 340.0 || 242.0 || 483.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8141) 112.603935 || 351.72836 || 211.6677 || 457.40704
+
+GROUND TRUTH FOR: core_battery00000567
+label: 504.0 || 720.0 || 658.0 || 874.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9734) 495.5425 || 718.87335 || 663.1743 || 884.6667
+
+GROUND TRUTH FOR: coreless_battery00002720
+label: 1645.0 || 478.0 || 1788.0 || 572.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7534) 1627.2297 || 475.08163 || 1807.6597 || 570.93396
+
+GROUND TRUTH FOR: coreless_battery00001106
+label: 72.0 || 503.0 || 178.0 || 637.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9707) 63.023026 || 501.8672 || 190.96147 || 643.02875
+
+GROUND TRUTH FOR: core_battery00004225
+label: 269.0 || 537.0 || 370.0 || 708.0 || 0
+
+GROUND TRUTH FOR: core_battery00004145
+label: 937.0 || 394.0 || 1086.0 || 487.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003572
+label: 1299.0 || 354.0 || 1435.0 || 495.0 || 1
+
+GROUND TRUTH FOR: core_battery00001264
+label: 116.0 || 613.0 || 229.0 || 775.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9340) 121.52217 || 614.3097 || 225.21432 || 766.2054
+
+GROUND TRUTH FOR: core_battery00001049
+label: 670.0 || 454.0 || 793.0 || 560.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8402) 683.5955 || 461.0747 || 781.9161 || 568.1404
+
+GROUND TRUTH FOR: coreless_battery00002202
+label: 106.0 || 466.0 || 280.0 || 583.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9169) 118.403984 || 460.80978 || 288.5469 || 578.9755
+
+GROUND TRUTH FOR: core_battery00003279
+label: 206.0 || 382.0 || 327.0 || 486.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001317
+label: 344.0 || 609.0 || 462.0 || 739.0 || 1
+
+GROUND TRUTH FOR: core_battery00000915
+label: 25.0 || 455.0 || 106.0 || 534.0 || 0
+
+GROUND TRUTH FOR: core_battery00000287
+label: 311.0 || 393.0 || 353.0 || 503.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005346
+label: 311.0 || 485.0 || 477.0 || 595.0 || 1
+
+GROUND TRUTH FOR: core_battery00005031
+label: 218.0 || 416.0 || 420.0 || 499.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7434) 154.72534 || 420.09427 || 285.66763 || 663.99677
+
+GROUND TRUTH FOR: coreless_battery00005914
+label: 138.0 || 483.0 || 269.0 || 657.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6764) 145.55936 || 492.89963 || 250.74536 || 634.5281
+
+GROUND TRUTH FOR: core_battery00003082
+label: 1153.0 || 388.0 || 1268.0 || 488.0 || 0
+label: 1274.0 || 728.0 || 1392.0 || 822.0 || 0
+label: 1094.0 || 665.0 || 1275.0 || 756.0 || 1
+
+GROUND TRUTH FOR: core_battery00000681
+label: 1568.0 || 787.0 || 1718.0 || 907.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003543
+label: 639.0 || 728.0 || 809.0 || 825.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001883
+label: 1625.0 || 526.0 || 1693.0 || 664.0 || 1
+
+GROUND TRUTH FOR: core_battery00005180
+label: 333.0 || 347.0 || 409.0 || 512.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7576) 319.4068 || 357.96722 || 408.25098 || 513.666
+
+GROUND TRUTH FOR: core_battery00001663
+label: 485.0 || 643.0 || 593.0 || 706.0 || 0
+
+GROUND TRUTH FOR: core_battery00002002
+label: 141.0 || 691.0 || 235.0 || 801.0 || 0
+
+GROUND TRUTH FOR: core_battery00005503
+label: 125.0 || 695.0 || 318.0 || 866.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6588) 128.06947 || 699.27 || 274.40305 || 876.41113
+
+GROUND TRUTH FOR: core_battery00004782
+label: 68.0 || 481.0 || 189.0 || 662.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9350) 82.42395 || 505.824 || 172.33151 || 646.3305
+
+GROUND TRUTH FOR: core_battery00001205
+label: 637.0 || 645.0 || 779.0 || 841.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6770) 655.45135 || 667.18335 || 767.47766 || 846.92224
+
+GROUND TRUTH FOR: core_battery00000458
+label: 302.0 || 789.0 || 407.0 || 892.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9526) 313.31305 || 795.0566 || 410.8164 || 899.9564
+
+GROUND TRUTH FOR: coreless_battery00000269
+label: 459.0 || 607.0 || 540.0 || 743.0 || 1
+
+GROUND TRUTH FOR: core_battery00005257
+label: 354.0 || 380.0 || 496.0 || 577.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9601) 369.1222 || 379.70956 || 491.6826 || 564.7577
+
+GROUND TRUTH FOR: core_battery00003354
+label: 397.0 || 295.0 || 549.0 || 431.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002014
+label: 481.0 || 738.0 || 651.0 || 846.0 || 1
+
+GROUND TRUTH FOR: core_battery00003908
+label: 154.0 || 531.0 || 219.0 || 598.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000754
+label: 238.0 || 683.0 || 329.0 || 773.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6578) 247.92218 || 686.19556 || 322.9188 || 775.1827
+
+GROUND TRUTH FOR: core_battery00003777
+label: 1193.0 || 451.0 || 1276.0 || 562.0 || 0
+label: 1648.0 || 349.0 || 1810.0 || 462.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6822) 1640.3857 || 342.51404 || 1815.3911 || 455.32074
+
+GROUND TRUTH FOR: coreless_battery00001016
+label: 189.0 || 719.0 || 319.0 || 911.0 || 1
+
+GROUND TRUTH FOR: core_battery00002481
+label: 517.0 || 404.0 || 658.0 || 488.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002405
+label: 1009.0 || 435.0 || 1187.0 || 588.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7677) 1006.7388 || 421.69977 || 1195.2832 || 586.67346
+
+GROUND TRUTH FOR: coreless_battery00004928
+label: 1502.0 || 350.0 || 1682.0 || 478.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002486
+label: 85.0 || 393.0 || 281.0 || 451.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7435) 97.69038 || 376.41376 || 282.1796 || 458.9096
+
+GROUND TRUTH FOR: coreless_battery00004339
+label: 107.0 || 577.0 || 228.0 || 751.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9383) 105.34382 || 556.08606 || 208.46634 || 756.18225
+
+GROUND TRUTH FOR: core_battery00005167
+label: 177.0 || 424.0 || 318.0 || 590.0 || 0
+label: 1511.0 || 612.0 || 1634.0 || 710.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003863
+label: 98.0 || 440.0 || 202.0 || 586.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001513
+label: 141.0 || 546.0 || 265.0 || 673.0 || 1
+
+GROUND TRUTH FOR: core_battery00003615
+label: 1067.0 || 352.0 || 1238.0 || 454.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001043
+label: 433.0 || 582.0 || 553.0 || 699.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9766) 421.55304 || 570.28265 || 546.8317 || 688.92816
+
+GROUND TRUTH FOR: coreless_battery00003652
+label: 683.0 || 799.0 || 905.0 || 935.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9435) 683.9432 || 794.7809 || 891.19476 || 924.42676
+
+GROUND TRUTH FOR: coreless_battery00003394
+label: 328.0 || 395.0 || 446.0 || 521.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002918
+label: 592.0 || 371.0 || 701.0 || 487.0 || 1
+label: 1577.0 || 350.0 || 1651.0 || 462.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002174
+label: 1155.0 || 657.0 || 1304.0 || 801.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00000317
+label: 409.0 || 597.0 || 482.0 || 761.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9725) 397.1507 || 586.60706 || 496.48456 || 766.66156
+
+GROUND TRUTH FOR: coreless_battery00004420
+label: 327.0 || 547.0 || 436.0 || 747.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7933) 323.7824 || 538.7257 || 442.80862 || 728.8542
+
+GROUND TRUTH FOR: coreless_battery00001924
+label: 1686.0 || 802.0 || 1848.0 || 906.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7851) 1685.3164 || 708.8749 || 1854.849 || 897.00995
+
+GROUND TRUTH FOR: coreless_battery00004877
+label: 100.0 || 723.0 || 339.0 || 889.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8059) 94.11091 || 732.5613 || 294.7929 || 860.2464
+
+GROUND TRUTH FOR: coreless_battery00005017
+label: 306.0 || 686.0 || 473.0 || 826.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9024) 284.78476 || 688.4248 || 453.55453 || 808.1811
+
+GROUND TRUTH FOR: core_battery00004672
+label: 1172.0 || 683.0 || 1341.0 || 800.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9280) 1150.9835 || 713.1636 || 1358.2563 || 819.6513
+
+GROUND TRUTH FOR: core_battery00005080
+label: 259.0 || 352.0 || 379.0 || 473.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005938
+label: 415.0 || 823.0 || 581.0 || 964.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9019) 423.49567 || 831.4579 || 576.70984 || 953.5655
+
+GROUND TRUTH FOR: core_battery00005366
+label: 494.0 || 616.0 || 589.0 || 801.0 || 0
+
+GROUND TRUTH FOR: core_battery00006028
+label: 534.0 || 585.0 || 664.0 || 738.0 || 0
+
+GROUND TRUTH FOR: core_battery00005594
+label: 1466.0 || 674.0 || 1546.0 || 844.0 || 0
+label: 161.0 || 507.0 || 256.0 || 718.0 || 0
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8485) 1833.1749 || 379.5232 || 1991.9489 || 518.1595
+
+GROUND TRUTH FOR: core_battery00000475
+label: 73.0 || 737.0 || 199.0 || 867.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9611) 69.456696 || 754.694 || 182.79851 || 848.255
+
+GROUND TRUTH FOR: core_battery00006010
+label: 156.0 || 433.0 || 373.0 || 590.0 || 0
+
+GROUND TRUTH FOR: core_battery00002724
+label: 135.0 || 689.0 || 226.0 || 768.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002189
+label: 305.0 || 654.0 || 435.0 || 814.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9656) 304.51254 || 629.45685 || 422.75333 || 834.38666
+
+GROUND TRUTH FOR: core_battery00003812
+label: 1455.0 || 368.0 || 1517.0 || 534.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005623
+label: 607.0 || 600.0 || 710.0 || 748.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7847) 618.31287 || 606.6858 || 711.5149 || 751.7998
+
+GROUND TRUTH FOR: coreless_battery00001347
+label: 607.0 || 481.0 || 751.0 || 582.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7021) 585.34186 || 464.95325 || 757.9756 || 603.7801
+
+GROUND TRUTH FOR: coreless_battery00004275
+label: 168.0 || 376.0 || 357.0 || 493.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8493) 180.00652 || 370.8434 || 345.0079 || 477.38586
+
+GROUND TRUTH FOR: core_battery00000443
+label: 640.0 || 809.0 || 790.0 || 925.0 || 0
+label: 1093.0 || 645.0 || 1159.0 || 794.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.9583) 618.80316 || 806.39325 || 800.8464 || 929.22534
+
+GROUND TRUTH FOR: coreless_battery00005435
+label: 184.0 || 394.0 || 375.0 || 496.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003968
+label: 341.0 || 406.0 || 511.0 || 488.0 || 1
+
+GROUND TRUTH FOR: core_battery00002263
+label: 1162.0 || 418.0 || 1262.0 || 534.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000894
+label: 840.0 || 413.0 || 914.0 || 585.0 || 1
+
+GROUND TRUTH FOR: core_battery00003057
+label: 1001.0 || 557.0 || 1099.0 || 752.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003881
+label: 79.0 || 478.0 || 144.0 || 671.0 || 1
+
+GROUND TRUTH FOR: core_battery00000258
+label: 161.0 || 338.0 || 290.0 || 498.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8221) 159.86046 || 331.76764 || 293.06317 || 478.65204
+
+GROUND TRUTH FOR: core_battery00003849
+label: 141.0 || 774.0 || 293.0 || 874.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9692) 154.87215 || 757.35345 || 285.07895 || 869.7614
+
+GROUND TRUTH FOR: coreless_battery00005743
+label: 679.0 || 781.0 || 871.0 || 922.0 || 1
+label: 1282.0 || 521.0 || 1394.0 || 715.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8770) 678.76825 || 812.73157 || 868.7884 || 903.4987
+
+GROUND TRUTH FOR: core_battery00004764
+label: 1598.0 || 358.0 || 1775.0 || 520.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7203) 1622.0833 || 374.02634 || 1768.6687 || 504.07922
+
+GROUND TRUTH FOR: core_battery00002314
+label: 300.0 || 510.0 || 389.0 || 690.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9197) 298.09958 || 510.77728 || 377.09116 || 683.0315
+
+GROUND TRUTH FOR: coreless_battery00003240
+label: 823.0 || 735.0 || 1035.0 || 849.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8031) 830.5124 || 733.91547 || 1037.8562 || 843.06836
+
+GROUND TRUTH FOR: coreless_battery00003723
+label: 177.0 || 316.0 || 381.0 || 421.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9848) 198.62804 || 316.97202 || 392.03076 || 417.7118
+
+GROUND TRUTH FOR: core_battery00000465
+label: 990.0 || 513.0 || 1111.0 || 573.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005039
+label: 128.0 || 680.0 || 306.0 || 775.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004517
+label: 1167.0 || 454.0 || 1362.0 || 553.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7608) 1178.7018 || 458.7521 || 1342.0984 || 553.21985
+
+GROUND TRUTH FOR: core_battery00004649
+label: 404.0 || 449.0 || 561.0 || 585.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9852) 397.40506 || 459.403 || 541.521 || 586.81323
+
+GROUND TRUTH FOR: core_battery00000098
+label: 1228.0 || 814.0 || 1309.0 || 931.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7986) 1212.0665 || 794.086 || 1308.3673 || 936.3035
+
+GROUND TRUTH FOR: coreless_battery00005987
+label: 217.0 || 471.0 || 317.0 || 643.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8097) 224.5958 || 459.7799 || 305.17886 || 647.2035
+
+GROUND TRUTH FOR: core_battery00005785
+label: 1237.0 || 283.0 || 1399.0 || 360.0 || 0
+label: 1585.0 || 347.0 || 1652.0 || 477.0 || 0
+
+GROUND TRUTH FOR: core_battery00003050
+label: 757.0 || 318.0 || 861.0 || 422.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9006) 748.6773 || 308.64462 || 871.896 || 411.39093
+
+GROUND TRUTH FOR: coreless_battery00001771
+label: 515.0 || 822.0 || 668.0 || 903.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9691) 500.9658 || 815.14136 || 682.46375 || 901.5822
+
+GROUND TRUTH FOR: coreless_battery00002409
+label: 96.0 || 747.0 || 254.0 || 857.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9221) 86.61066 || 725.08594 || 257.91226 || 856.3294
+
+GROUND TRUTH FOR: core_battery00005302
+label: 132.0 || 584.0 || 341.0 || 735.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7945) 113.320175 || 596.69507 || 330.7258 || 721.6311
+
+GROUND TRUTH FOR: coreless_battery00000844
+label: 90.0 || 392.0 || 268.0 || 474.0 || 1
+
+GROUND TRUTH FOR: core_battery00001940
+label: 490.0 || 632.0 || 652.0 || 815.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000691
+label: 350.0 || 506.0 || 488.0 || 656.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8859) 353.10876 || 496.93457 || 480.13367 || 664.04517
+
+GROUND TRUTH FOR: coreless_battery00005034
+label: 647.0 || 715.0 || 839.0 || 880.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8195) 686.77924 || 733.0902 || 811.3632 || 881.4471
+
+GROUND TRUTH FOR: coreless_battery00000392
+label: 49.0 || 785.0 || 182.0 || 893.0 || 1
+label: 192.0 || 754.0 || 255.0 || 884.0 || 0
+label: 1388.0 || 487.0 || 1500.0 || 607.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002907
+label: 611.0 || 365.0 || 804.0 || 460.0 || 1
+label: 1611.0 || 351.0 || 1742.0 || 471.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7578) 1618.562 || 368.84668 || 1734.0602 || 478.91373
+
+GROUND TRUTH FOR: coreless_battery00005937
+label: 1039.0 || 634.0 || 1199.0 || 793.0 || 1
+
+GROUND TRUTH FOR: core_battery00004553
+label: 44.0 || 555.0 || 182.0 || 631.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7891) 44.972607 || 541.0903 || 166.40677 || 634.37445
+
+GROUND TRUTH FOR: core_battery00001936
+label: 856.0 || 466.0 || 981.0 || 548.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001120
+label: 425.0 || 481.0 || 545.0 || 638.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8726) 437.3994 || 484.58704 || 541.04626 || 647.32904
+
+GROUND TRUTH FOR: core_battery00004775
+label: 1052.0 || 561.0 || 1191.0 || 694.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9002) 1053.0101 || 576.1079 || 1194.1693 || 691.84644
+
+GROUND TRUTH FOR: coreless_battery00000221
+label: 1199.0 || 384.0 || 1302.0 || 482.0 || 1
+
+GROUND TRUTH FOR: core_battery00002017
+label: 971.0 || 692.0 || 1156.0 || 870.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005423
+label: 206.0 || 377.0 || 374.0 || 484.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8725) 207.27817 || 383.96155 || 374.98016 || 473.52505
+
+GROUND TRUTH FOR: core_battery00005381
+label: 1190.0 || 363.0 || 1423.0 || 479.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9034) 1208.1494 || 367.10733 || 1417.6199 || 472.964
+
+GROUND TRUTH FOR: coreless_battery00001592
+label: 85.0 || 712.0 || 223.0 || 867.0 || 1
+label: 650.0 || 764.0 || 811.0 || 879.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9297) 637.4124 || 772.3031 || 808.984 || 899.8452
+
+GROUND TRUTH FOR: core_battery00002688
+label: 151.0 || 472.0 || 323.0 || 549.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8128) 128.65407 || 467.18552 || 331.97522 || 565.6878
+
+GROUND TRUTH FOR: coreless_battery00005006
+label: 228.0 || 401.0 || 408.0 || 512.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9140) 243.66914 || 411.52072 || 423.36896 || 510.73013
+
+GROUND TRUTH FOR: coreless_battery00001694
+label: 309.0 || 727.0 || 535.0 || 869.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9379) 312.2784 || 732.3333 || 510.98782 || 854.90656
+
+GROUND TRUTH FOR: core_battery00002392
+label: 1239.0 || 410.0 || 1352.0 || 536.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7438) 1213.1776 || 413.09894 || 1372.0148 || 549.37103
+
+GROUND TRUTH FOR: coreless_battery00004561
+label: 1576.0 || 300.0 || 1657.0 || 522.0 || 1
+
+GROUND TRUTH FOR: core_battery00005166
+label: 794.0 || 411.0 || 875.0 || 531.0 || 0
+label: 876.0 || 432.0 || 1035.0 || 622.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7581) 829.76337 || 427.344 || 1061.7625 || 589.1366
+
+GROUND TRUTH FOR: coreless_battery00003025
+label: 220.0 || 770.0 || 407.0 || 879.0 || 1
+
+GROUND TRUTH FOR: core_battery00000643
+label: 487.0 || 390.0 || 564.0 || 509.0 || 0
+label: 1849.0 || 587.0 || 1960.0 || 663.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8199) 1840.3208 || 582.67004 || 1957.7479 || 668.8332
+
+GROUND TRUTH FOR: core_battery00000909
+label: 1891.0 || 743.0 || 1979.0 || 818.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002951
+label: 65.0 || 768.0 || 163.0 || 919.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001596
+label: 1245.0 || 672.0 || 1357.0 || 871.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002257
+label: 786.0 || 740.0 || 944.0 || 881.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001118
+label: 471.0 || 689.0 || 623.0 || 781.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9417) 454.9245 || 692.3299 || 637.1979 || 789.6845
+
+GROUND TRUTH FOR: core_battery00005809
+label: 556.0 || 369.0 || 669.0 || 414.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00004153
+label: 484.0 || 703.0 || 661.0 || 800.0 || 1
+label: 74.0 || 637.0 || 121.0 || 866.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6538) 490.52264 || 692.6284 || 675.2032 || 797.4247
+
+GROUND TRUTH FOR: coreless_battery00001067
+label: 473.0 || 812.0 || 632.0 || 900.0 || 1
+label: 1234.0 || 575.0 || 1298.0 || 726.0 || 0
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8616) 470.54102 || 809.4111 || 652.1982 || 905.53357
+
+GROUND TRUTH FOR: core_battery00004651
+label: 345.0 || 316.0 || 509.0 || 610.0 || 0
+
+GROUND TRUTH FOR: core_battery00001539
+label: 649.0 || 758.0 || 778.0 || 877.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8684) 657.91833 || 738.2902 || 774.0549 || 864.5173
+
+GROUND TRUTH FOR: coreless_battery00002977
+label: 969.0 || 643.0 || 1119.0 || 848.0 || 1
+
+GROUND TRUTH FOR: core_battery00005186
+label: 373.0 || 445.0 || 457.0 || 643.0 || 0
+
+GROUND TRUTH FOR: core_battery00002914
+label: 1250.0 || 646.0 || 1382.0 || 733.0 || 0
+label: 1768.0 || 608.0 || 1881.0 || 769.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.7255) 1258.5029 || 639.773 || 1385.1469 || 738.6078
+
+GROUND TRUTH FOR: coreless_battery00005082
+label: 60.0 || 379.0 || 252.0 || 470.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9260) 103.142 || 367.4911 || 225.67365 || 456.59503
+
+GROUND TRUTH FOR: coreless_battery00000076
+label: 198.0 || 785.0 || 250.0 || 892.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7162) 166.59094 || 774.6076 || 264.75974 || 900.39386
+
+GROUND TRUTH FOR: core_battery00001007
+label: 643.0 || 593.0 || 713.0 || 758.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002600
+label: 76.0 || 711.0 || 219.0 || 847.0 || 1
+
+GROUND TRUTH FOR: core_battery00005336
+label: 193.0 || 394.0 || 318.0 || 461.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003783
+label: 351.0 || 509.0 || 522.0 || 678.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005335
+label: 55.0 || 674.0 || 277.0 || 782.0 || 1
+
+GROUND TRUTH FOR: core_battery00001773
+label: 1761.0 || 666.0 || 1881.0 || 790.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000599
+label: 149.0 || 470.0 || 234.0 || 650.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9335) 138.60675 || 462.74866 || 240.8381 || 659.06433
+
+GROUND TRUTH FOR: coreless_battery00004603
+label: 662.0 || 438.0 || 776.0 || 631.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7541) 671.4217 || 453.9952 || 791.04645 || 630.34204
+
+GROUND TRUTH FOR: coreless_battery00004310
+label: 586.0 || 539.0 || 680.0 || 721.0 || 1
+
+GROUND TRUTH FOR: core_battery00002197
+label: 696.0 || 391.0 || 874.0 || 471.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7981) 680.1278 || 383.68973 || 871.87854 || 477.94165
+
+GROUND TRUTH FOR: core_battery00000170
+label: 34.0 || 398.0 || 71.0 || 485.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7158) 31.411335 || 370.80167 || 73.87203 || 490.0912
+
+GROUND TRUTH FOR: core_battery00005442
+label: 1432.0 || 342.0 || 1559.0 || 561.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7521) 1443.2743 || 341.9932 || 1568.3477 || 562.63293
+
+GROUND TRUTH FOR: core_battery00003175
+label: 983.0 || 338.0 || 1217.0 || 497.0 || 0
+label: 989.0 || 520.0 || 1176.0 || 638.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8152) 997.9042 || 514.20886 || 1169.6501 || 625.0185
+2 label: core score: tensor(0.6244) 1092.909 || 357.9853 || 1219.9967 || 480.406
+
+GROUND TRUTH FOR: core_battery00002454
+label: 195.0 || 430.0 || 293.0 || 533.0 || 0
+
+GROUND TRUTH FOR: core_battery00005741
+label: 83.0 || 624.0 || 168.0 || 820.0 || 0
+
+GROUND TRUTH FOR: core_battery00004091
+label: 92.0 || 410.0 || 201.0 || 542.0 || 0
+
+GROUND TRUTH FOR: core_battery00003182
+label: 461.0 || 502.0 || 586.0 || 653.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9417) 452.86798 || 498.43665 || 567.82294 || 638.46674
+
+GROUND TRUTH FOR: coreless_battery00004793
+label: 280.0 || 814.0 || 465.0 || 912.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005879
+label: 741.0 || 416.0 || 930.0 || 527.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8583) 754.5208 || 416.39734 || 929.9764 || 524.1389
+
+GROUND TRUTH FOR: coreless_battery00005513
+label: 664.0 || 642.0 || 841.0 || 758.0 || 1
+
+GROUND TRUTH FOR: core_battery00002740
+label: 750.0 || 502.0 || 892.0 || 611.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7354) 752.9391 || 508.2999 || 882.72504 || 591.7018
+
+GROUND TRUTH FOR: coreless_battery00002184
+label: 928.0 || 573.0 || 1032.0 || 642.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002004
+label: 1620.0 || 667.0 || 1704.0 || 869.0 || 1
+
+GROUND TRUTH FOR: core_battery00002985
+label: 122.0 || 790.0 || 238.0 || 914.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7162) 240.34216 || 753.57495 || 282.07538 || 877.54926
+2 label: core score: tensor(0.6680) 135.87654 || 796.0407 || 229.52007 || 912.96185
+
+GROUND TRUTH FOR: coreless_battery00000566
+label: 1202.0 || 504.0 || 1278.0 || 644.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005228
+label: 102.0 || 576.0 || 328.0 || 692.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8807) 139.651 || 570.883 || 335.7858 || 698.17755
+
+GROUND TRUTH FOR: coreless_battery00000375
+label: 476.0 || 545.0 || 615.0 || 772.0 || 1
+
+GROUND TRUTH FOR: core_battery00005753
+label: 839.0 || 769.0 || 954.0 || 908.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8372) 836.50476 || 773.0046 || 949.9299 || 912.0355
+
+GROUND TRUTH FOR: coreless_battery00001186
+label: 683.0 || 677.0 || 818.0 || 760.0 || 1
+
+GROUND TRUTH FOR: core_battery00001091
+label: 123.0 || 410.0 || 287.0 || 497.0 || 0
+
+GROUND TRUTH FOR: core_battery00003085
+label: 138.0 || 306.0 || 205.0 || 430.0 || 0
+label: 636.0 || 534.0 || 840.0 || 614.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002644
+label: 57.0 || 369.0 || 245.0 || 435.0 || 1
+
+GROUND TRUTH FOR: core_battery00005390
+label: 469.0 || 570.0 || 579.0 || 774.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8928) 468.05167 || 563.6606 || 582.5237 || 763.44037
+
+GROUND TRUTH FOR: core_battery00004897
+label: 932.0 || 693.0 || 1046.0 || 841.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6957) 942.5964 || 700.23 || 1036.6311 || 831.5045
+
+GROUND TRUTH FOR: coreless_battery00004309
+label: 113.0 || 318.0 || 296.0 || 423.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8227) 107.97495 || 323.5633 || 261.79666 || 407.915
+
+GROUND TRUTH FOR: coreless_battery00004100
+label: 407.0 || 691.0 || 503.0 || 867.0 || 1
+
+GROUND TRUTH FOR: core_battery00003645
+label: 210.0 || 503.0 || 349.0 || 599.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6431) 212.35059 || 494.46744 || 357.52438 || 598.887
+
+GROUND TRUTH FOR: coreless_battery00001408
+label: 156.0 || 647.0 || 340.0 || 730.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9541) 159.5426 || 648.3651 || 347.50677 || 729.1279
+
+GROUND TRUTH FOR: core_battery00003192
+label: 587.0 || 758.0 || 691.0 || 884.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6126) 596.61664 || 722.07184 || 707.4617 || 896.41223
+
+GROUND TRUTH FOR: core_battery00001640
+label: 268.0 || 650.0 || 363.0 || 768.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9474) 274.7196 || 640.8669 || 349.30142 || 758.49133
+
+GROUND TRUTH FOR: core_battery00000831
+label: 635.0 || 461.0 || 807.0 || 609.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7588) 651.1592 || 452.81012 || 779.4435 || 622.2024
+
+GROUND TRUTH FOR: core_battery00005088
+label: 333.0 || 530.0 || 382.0 || 695.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000977
+label: 271.0 || 720.0 || 351.0 || 918.0 || 1
+label: 918.0 || 722.0 || 1055.0 || 880.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7676) 920.893 || 731.2928 || 1045.7095 || 878.29205
+
+GROUND TRUTH FOR: core_battery00000028
+label: 53.0 || 496.0 || 147.0 || 577.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00004806
+label: 59.0 || 561.0 || 238.0 || 675.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7043) 66.05555 || 559.4713 || 226.10498 || 666.0737
+
+GROUND TRUTH FOR: core_battery00003330
+label: 175.0 || 800.0 || 319.0 || 899.0 || 0
+label: 697.0 || 681.0 || 792.0 || 870.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9031) 187.94977 || 784.55786 || 323.36432 || 911.204
+2 label: core score: tensor(0.8653) 702.0729 || 668.4503 || 803.9457 || 858.01135
+
+GROUND TRUTH FOR: core_battery00001241
+label: 942.0 || 455.0 || 1063.0 || 596.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8773) 958.42706 || 447.34763 || 1062.9069 || 577.21985
+
+GROUND TRUTH FOR: coreless_battery00001469
+label: 216.0 || 456.0 || 346.0 || 577.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9435) 194.60431 || 454.25827 || 359.2537 || 577.77814
+
+GROUND TRUTH FOR: core_battery00002780
+label: 467.0 || 571.0 || 563.0 || 770.0 || 0
+label: 154.0 || 578.0 || 261.0 || 670.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9065) 468.2464 || 564.67993 || 553.99585 || 759.39996
+
+GROUND TRUTH FOR: core_battery00003222
+label: 225.0 || 761.0 || 394.0 || 894.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000672
+label: 463.0 || 555.0 || 553.0 || 705.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6553) 439.29886 || 522.97455 || 539.993 || 725.6898
+
+GROUND TRUTH FOR: core_battery00000750
+label: 173.0 || 588.0 || 334.0 || 661.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002827
+label: 77.0 || 349.0 || 242.0 || 465.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7978) 68.16617 || 352.04678 || 231.97856 || 468.08615
+
+GROUND TRUTH FOR: coreless_battery00005886
+label: 107.0 || 692.0 || 310.0 || 836.0 || 1
+label: 1316.0 || 556.0 || 1413.0 || 771.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9048) 86.39529 || 697.767 || 283.46255 || 820.68176
+
+GROUND TRUTH FOR: core_battery00003880
+label: 237.0 || 777.0 || 372.0 || 889.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9557) 245.71866 || 763.94385 || 371.15097 || 881.0914
+
+GROUND TRUTH FOR: core_battery00001243
+label: 362.0 || 546.0 || 488.0 || 651.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7518) 387.14093 || 549.5469 || 481.08536 || 655.9555
+
+GROUND TRUTH FOR: coreless_battery00003750
+label: 642.0 || 591.0 || 789.0 || 726.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003004
+label: 884.0 || 338.0 || 1057.0 || 513.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00000687
+label: 443.0 || 489.0 || 510.0 || 625.0 || 1
+
+GROUND TRUTH FOR: core_battery00003533
+label: 179.0 || 701.0 || 366.0 || 884.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002589
+label: 1012.0 || 583.0 || 1175.0 || 687.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8255) 1010.509 || 593.1197 || 1168.5221 || 689.0535
+
+GROUND TRUTH FOR: core_battery00002215
+label: 844.0 || 403.0 || 978.0 || 634.0 || 0
+label: 1707.0 || 533.0 || 1783.0 || 670.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003703
+label: 635.0 || 615.0 || 725.0 || 693.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003550
+label: 89.0 || 840.0 || 318.0 || 955.0 || 1
+label: 1727.0 || 750.0 || 1824.0 || 870.0 || 0
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9395) 108.55506 || 834.16223 || 300.1341 || 949.9916
+
+GROUND TRUTH FOR: core_battery00002863
+label: 219.0 || 419.0 || 363.0 || 589.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001902
+label: 125.0 || 361.0 || 285.0 || 430.0 || 1
+
+GROUND TRUTH FOR: core_battery00005358
+label: 85.0 || 632.0 || 155.0 || 758.0 || 0
+
+GROUND TRUTH FOR: core_battery00001752
+label: 493.0 || 619.0 || 529.0 || 724.0 || 0
+
+GROUND TRUTH FOR: core_battery00001604
+label: 66.0 || 510.0 || 148.0 || 685.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8954) 52.201454 || 527.8976 || 130.14867 || 656.1064
+
+GROUND TRUTH FOR: coreless_battery00000273
+label: 1747.0 || 811.0 || 1835.0 || 959.0 || 1
+
+GROUND TRUTH FOR: core_battery00000248
+label: 1045.0 || 468.0 || 1133.0 || 608.0 || 0
+
+GROUND TRUTH FOR: core_battery00001628
+label: 73.0 || 789.0 || 242.0 || 908.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7061) 53.386597 || 795.74304 || 256.46088 || 915.9739
+
+GROUND TRUTH FOR: core_battery00005676
+label: 405.0 || 359.0 || 515.0 || 445.0 || 0
+
+GROUND TRUTH FOR: core_battery00004448
+label: 355.0 || 582.0 || 478.0 || 761.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8761) 345.22156 || 576.96423 || 477.53696 || 745.57574
+
+GROUND TRUTH FOR: coreless_battery00003362
+label: 113.0 || 686.0 || 252.0 || 855.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003499
+label: 347.0 || 537.0 || 445.0 || 675.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8425) 329.88135 || 497.19733 || 461.3193 || 661.7061
+
+GROUND TRUTH FOR: core_battery00003083
+label: 1034.0 || 402.0 || 1173.0 || 610.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7373) 1037.4595 || 391.399 || 1163.2411 || 618.15125
+
+GROUND TRUTH FOR: core_battery00004180
+label: 535.0 || 696.0 || 631.0 || 866.0 || 0
+
+GROUND TRUTH FOR: core_battery00003443
+label: 997.0 || 480.0 || 1114.0 || 610.0 || 0
+
+GROUND TRUTH FOR: core_battery00000668
+label: 183.0 || 758.0 || 290.0 || 876.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7122) 181.81311 || 752.82306 || 299.55682 || 845.4782
+
+GROUND TRUTH FOR: coreless_battery00002967
+label: 325.0 || 372.0 || 466.0 || 453.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002768
+label: 178.0 || 329.0 || 350.0 || 389.0 || 1
+
+GROUND TRUTH FOR: core_battery00003943
+label: 782.0 || 721.0 || 907.0 || 841.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00004048
+label: 572.0 || 415.0 || 748.0 || 539.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9488) 574.3935 || 424.7591 || 740.9123 || 527.99286
+
+GROUND TRUTH FOR: core_battery00000213
+label: 314.0 || 392.0 || 399.0 || 485.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8228) 311.62695 || 369.25012 || 401.1832 || 489.603
+
+GROUND TRUTH FOR: coreless_battery00005614
+label: 1112.0 || 684.0 || 1206.0 || 877.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002871
+label: 635.0 || 616.0 || 718.0 || 803.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7222) 633.88574 || 625.4271 || 731.6239 || 795.93604
+
+GROUND TRUTH FOR: core_battery00002582
+label: 232.0 || 687.0 || 356.0 || 797.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9417) 220.49951 || 666.1831 || 337.7406 || 805.7109
+
+GROUND TRUTH FOR: coreless_battery00000563
+label: 906.0 || 494.0 || 1070.0 || 574.0 || 1
+
+GROUND TRUTH FOR: core_battery00004535
+label: 503.0 || 656.0 || 720.0 || 778.0 || 0
+label: 1679.0 || 353.0 || 1899.0 || 454.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7150) 513.51624 || 654.0856 || 714.20514 || 767.0298
+2 label: core score: tensor(0.7145) 1712.919 || 358.01962 || 1897.2241 || 436.5239
+
+GROUND TRUTH FOR: coreless_battery00005868
+label: 337.0 || 715.0 || 457.0 || 895.0 || 1
+label: 115.0 || 793.0 || 314.0 || 882.0 || 1
+label: 848.0 || 416.0 || 923.0 || 507.0 || 0
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7551) 191.04811 || 796.57794 || 295.80173 || 887.17975
+
+GROUND TRUTH FOR: core_battery00000518
+label: 139.0 || 549.0 || 250.0 || 667.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8218) 125.32587 || 531.3095 || 264.4336 || 675.39624
+
+GROUND TRUTH FOR: coreless_battery00003382
+label: 682.0 || 307.0 || 803.0 || 464.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9321) 687.4464 || 338.48444 || 794.3389 || 476.53137
+
+GROUND TRUTH FOR: core_battery00000051
+label: 515.0 || 389.0 || 575.0 || 455.0 || 0
+
+GROUND TRUTH FOR: core_battery00000980
+label: 433.0 || 660.0 || 508.0 || 852.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003851
+label: 503.0 || 581.0 || 723.0 || 660.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003821
+label: 235.0 || 449.0 || 349.0 || 580.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9423) 230.42651 || 462.91452 || 349.23712 || 596.2395
+
+GROUND TRUTH FOR: core_battery00000235
+label: 263.0 || 626.0 || 364.0 || 717.0 || 0
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7420) 267.13074 || 614.53357 || 371.23022 || 736.2687
+
+GROUND TRUTH FOR: core_battery00001216
+label: 488.0 || 642.0 || 642.0 || 748.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9341) 516.5251 || 634.5642 || 636.7033 || 746.0604
+
+GROUND TRUTH FOR: core_battery00005639
+label: 694.0 || 720.0 || 810.0 || 856.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9265) 709.885 || 717.8462 || 822.50854 || 851.7431
+
+GROUND TRUTH FOR: core_battery00004340
+label: 1363.0 || 521.0 || 1498.0 || 663.0 || 0
+
+GROUND TRUTH FOR: core_battery00002142
+label: 772.0 || 643.0 || 928.0 || 786.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6556) 771.7907 || 649.4906 || 909.2484 || 789.6079
+
+GROUND TRUTH FOR: coreless_battery00002352
+label: 1465.0 || 337.0 || 1593.0 || 375.0 || 1
+
+GROUND TRUTH FOR: core_battery00000348
+label: 183.0 || 538.0 || 279.0 || 650.0 || 0
+label: 1852.0 || 665.0 || 1902.0 || 787.0 || 0
+
+GROUND TRUTH FOR: core_battery00005992
+label: 416.0 || 365.0 || 517.0 || 464.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00005206
+label: 282.0 || 490.0 || 412.0 || 709.0 || 1
+
+GROUND TRUTH FOR: core_battery00000903
+label: 245.0 || 457.0 || 351.0 || 633.0 || 0
+label: 1535.0 || 427.0 || 1627.0 || 529.0 || 1
+
+GROUND TRUTH FOR: core_battery00005587
+label: 757.0 || 528.0 || 881.0 || 648.0 || 0
+label: 1201.0 || 812.0 || 1397.0 || 904.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.8066) 760.75574 || 526.23 || 890.20135 || 642.1767
+2 label: coreless score: tensor(0.9666) 1211.9254 || 798.0312 || 1401.134 || 901.7359
+
+GROUND TRUTH FOR: coreless_battery00004080
+label: 183.0 || 687.0 || 350.0 || 779.0 || 1
+label: 1345.0 || 328.0 || 1440.0 || 500.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7252) 167.07915 || 676.58484 || 344.96576 || 782.97906
+
+GROUND TRUTH FOR: core_battery00001010
+label: 101.0 || 716.0 || 303.0 || 863.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002109
+label: 386.0 || 458.0 || 575.0 || 561.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7952) 390.3068 || 465.57678 || 567.22955 || 566.14886
+
+GROUND TRUTH FOR: core_battery00001915
+label: 1409.0 || 391.0 || 1505.0 || 459.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7994) 1403.5762 || 378.12036 || 1516.1289 || 471.22778
+
+GROUND TRUTH FOR: core_battery00000652
+label: 378.0 || 582.0 || 437.0 || 750.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000181
+label: 151.0 || 519.0 || 245.0 || 609.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005383
+label: 78.0 || 352.0 || 259.0 || 455.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7351) 107.8577 || 362.0395 || 264.37637 || 465.03342
+
+GROUND TRUTH FOR: core_battery00001758
+label: 93.0 || 402.0 || 176.0 || 486.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7059) 82.93299 || 387.10358 || 163.48271 || 496.03494
+
+GROUND TRUTH FOR: core_battery00004337
+label: 226.0 || 325.0 || 419.0 || 433.0 || 0
+label: 1012.0 || 672.0 || 1137.0 || 763.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7748) 1018.36414 || 683.0907 || 1142.4512 || 769.10876
+2 label: core score: tensor(0.6706) 205.60796 || 322.77066 || 391.55542 || 430.2363
+
+GROUND TRUTH FOR: coreless_battery00004727
+label: 334.0 || 336.0 || 477.0 || 522.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003456
+label: 472.0 || 325.0 || 600.0 || 427.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6864) 460.25955 || 322.4623 || 595.29 || 421.36554
+
+GROUND TRUTH FOR: coreless_battery00003378
+label: 678.0 || 435.0 || 859.0 || 515.0 || 1
+label: 220.0 || 738.0 || 356.0 || 812.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7086) 230.21977 || 744.5685 || 336.9786 || 835.94305
+
+GROUND TRUTH FOR: coreless_battery00001224
+label: 937.0 || 598.0 || 1022.0 || 782.0 || 1
+
+GROUND TRUTH FOR: core_battery00000091
+label: 1069.0 || 523.0 || 1112.0 || 635.0 || 0
+
+GROUND TRUTH FOR: core_battery00004518
+label: 259.0 || 612.0 || 349.0 || 834.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8143) 257.91003 || 603.5657 || 368.89294 || 842.7843
+
+GROUND TRUTH FOR: coreless_battery00001153
+label: 182.0 || 648.0 || 322.0 || 797.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9634) 179.6379 || 625.9092 || 324.20462 || 790.96545
+
+GROUND TRUTH FOR: core_battery00003171
+label: 186.0 || 623.0 || 324.0 || 764.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6636) 199.31447 || 619.76746 || 312.90817 || 747.3016
+
+GROUND TRUTH FOR: coreless_battery00001796
+label: 139.0 || 546.0 || 312.0 || 618.0 || 1
+
+GROUND TRUTH FOR: core_battery00004394
+label: 920.0 || 732.0 || 1061.0 || 855.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6602) 947.2647 || 746.6055 || 1071.0477 || 869.7437
+
+GROUND TRUTH FOR: core_battery00001019
+label: 51.0 || 417.0 || 157.0 || 537.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8624) 43.85789 || 410.84177 || 148.67009 || 538.205
+
+GROUND TRUTH FOR: core_battery00005106
+label: 559.0 || 534.0 || 617.0 || 670.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001541
+label: 802.0 || 481.0 || 914.0 || 609.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8900) 792.4691 || 462.65463 || 918.9072 || 613.6432
+
+GROUND TRUTH FOR: core_battery00002716
+label: 298.0 || 658.0 || 468.0 || 813.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6943) 299.84195 || 641.6103 || 463.42215 || 794.3503
+
+GROUND TRUTH FOR: coreless_battery00002887
+label: 899.0 || 359.0 || 1001.0 || 515.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002103
+label: 226.0 || 460.0 || 338.0 || 597.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002160
+label: 705.0 || 764.0 || 900.0 || 825.0 || 1
+
+GROUND TRUTH FOR: core_battery00000322
+label: 254.0 || 590.0 || 349.0 || 698.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9820) 255.5582 || 572.0835 || 352.87448 || 693.067
+
+GROUND TRUTH FOR: core_battery00001903
+label: 176.0 || 573.0 || 285.0 || 643.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002579
+label: 155.0 || 625.0 || 305.0 || 700.0 || 1
+
+GROUND TRUTH FOR: core_battery00001589
+label: 139.0 || 711.0 || 370.0 || 831.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6198) 124.67132 || 701.6282 || 302.59125 || 803.1449
+
+GROUND TRUTH FOR: core_battery00002445
+label: 283.0 || 372.0 || 389.0 || 507.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8120) 281.22076 || 372.4949 || 379.18796 || 502.1266
+
+GROUND TRUTH FOR: coreless_battery00003459
+label: 115.0 || 614.0 || 298.0 || 729.0 || 1
+
+GROUND TRUTH FOR: core_battery00001985
+label: 564.0 || 347.0 || 628.0 || 522.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003384
+label: 108.0 || 733.0 || 303.0 || 879.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6782) 92.83167 || 727.73834 || 323.59894 || 874.4594
+
+GROUND TRUTH FOR: coreless_battery00005306
+label: 130.0 || 652.0 || 252.0 || 839.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8312) 125.837204 || 652.99274 || 254.62172 || 810.24225
+
+GROUND TRUTH FOR: core_battery00002176
+label: 611.0 || 578.0 || 738.0 || 644.0 || 0
+label: 1309.0 || 452.0 || 1496.0 || 571.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8306) 1304.223 || 449.0222 || 1510.4509 || 564.6797
+
+GROUND TRUTH FOR: core_battery00003232
+label: 1074.0 || 754.0 || 1186.0 || 900.0 || 0
+
+GROUND TRUTH FOR: core_battery00003762
+label: 263.0 || 527.0 || 358.0 || 659.0 || 0
+label: 185.0 || 436.0 || 446.0 || 649.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6760) 237.25015 || 468.15378 || 426.84827 || 637.164
+
+GROUND TRUTH FOR: coreless_battery00000500
+label: 141.0 || 823.0 || 297.0 || 917.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9787) 118.74207 || 807.50366 || 321.34998 || 912.6319
+
+GROUND TRUTH FOR: coreless_battery00001480
+label: 127.0 || 565.0 || 174.0 || 775.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002369
+label: 1187.0 || 410.0 || 1352.0 || 499.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8762) 1194.6409 || 401.87418 || 1362.8538 || 496.6364
+
+GROUND TRUTH FOR: core_battery00004032
+label: 212.0 || 453.0 || 352.0 || 552.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7206) 222.89206 || 446.16266 || 346.1232 || 563.77795
+
+GROUND TRUTH FOR: core_battery00006000
+label: 662.0 || 585.0 || 784.0 || 709.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8928) 666.12415 || 593.8636 || 766.2479 || 704.4672
+
+GROUND TRUTH FOR: coreless_battery00000620
+label: 21.0 || 439.0 || 152.0 || 506.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8320) 20.226194 || 426.79495 || 163.93875 || 526.22205
+
+GROUND TRUTH FOR: coreless_battery00002928
+label: 88.0 || 516.0 || 194.0 || 706.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7496) 69.35187 || 526.4718 || 199.75128 || 717.7088
+
+GROUND TRUTH FOR: core_battery00004126
+label: 887.0 || 766.0 || 1021.0 || 869.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9362) 892.31494 || 758.6959 || 1013.9479 || 867.5272
+
+GROUND TRUTH FOR: core_battery00003013
+label: 1337.0 || 378.0 || 1481.0 || 474.0 || 0
+
+GROUND TRUTH FOR: core_battery00005653
+label: 40.0 || 539.0 || 112.0 || 691.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9017) 52.224205 || 533.04614 || 121.62743 || 698.1343
+
+GROUND TRUTH FOR: coreless_battery00003080
+label: 886.0 || 470.0 || 1024.0 || 644.0 || 1
+
+GROUND TRUTH FOR: core_battery00005270
+label: 137.0 || 441.0 || 299.0 || 561.0 || 0
+label: 1051.0 || 815.0 || 1184.0 || 925.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6796) 1023.92664 || 817.5556 || 1192.7644 || 931.9741
+
+GROUND TRUTH FOR: core_battery00000799
+label: 428.0 || 569.0 || 616.0 || 624.0 || 0
+
+GROUND TRUTH FOR: core_battery00002762
+label: 1642.0 || 561.0 || 1788.0 || 699.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000655
+label: 103.0 || 561.0 || 192.0 || 690.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9361) 105.67523 || 548.0453 || 189.72083 || 703.6828
+
+GROUND TRUTH FOR: core_battery00004190
+label: 130.0 || 386.0 || 256.0 || 524.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6265) 124.10373 || 392.2536 || 255.13986 || 518.8215
+
+GROUND TRUTH FOR: coreless_battery00005361
+label: 344.0 || 450.0 || 446.0 || 585.0 || 1
+
+GROUND TRUTH FOR: core_battery00003403
+label: 155.0 || 538.0 || 261.0 || 675.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8263) 150.44029 || 543.7923 || 244.27637 || 701.88544
+
+GROUND TRUTH FOR: core_battery00000297
+label: 70.0 || 762.0 || 171.0 || 834.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8480) 63.77812 || 746.1035 || 183.85423 || 841.4735
+
+GROUND TRUTH FOR: coreless_battery00003065
+label: 1050.0 || 558.0 || 1170.0 || 704.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002812
+label: 70.0 || 633.0 || 277.0 || 802.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7496) 68.01517 || 623.36383 || 256.07425 || 807.0957
+
+GROUND TRUTH FOR: core_battery00000489
+label: 496.0 || 561.0 || 603.0 || 678.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8947) 512.16455 || 551.3662 || 602.7901 || 684.6956
+
+GROUND TRUTH FOR: coreless_battery00002166
+label: 134.0 || 554.0 || 332.0 || 647.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005304
+label: 519.0 || 335.0 || 680.0 || 503.0 || 1
+
+GROUND TRUTH FOR: core_battery00000684
+label: 689.0 || 535.0 || 770.0 || 709.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001755
+label: 841.0 || 550.0 || 995.0 || 620.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6791) 823.1485 || 535.3186 || 1010.1789 || 629.9901
+
+GROUND TRUTH FOR: core_battery00001749
+label: 33.0 || 396.0 || 136.0 || 540.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00004336
+label: 1076.0 || 698.0 || 1208.0 || 862.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004453
+label: 286.0 || 576.0 || 417.0 || 768.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7692) 292.41385 || 569.31744 || 412.2416 || 770.98224
+
+GROUND TRUTH FOR: coreless_battery00003143
+label: 186.0 || 342.0 || 397.0 || 433.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7950) 182.96762 || 345.1156 || 376.97116 || 438.45023
+
+GROUND TRUTH FOR: coreless_battery00000180
+label: 862.0 || 678.0 || 1030.0 || 795.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9220) 863.8814 || 668.86694 || 1054.0955 || 806.8419
+
+GROUND TRUTH FOR: coreless_battery00000298
+label: 234.0 || 608.0 || 350.0 || 754.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9044) 221.64775 || 582.7635 || 329.90387 || 771.90533
+
+GROUND TRUTH FOR: coreless_battery00005243
+label: 345.0 || 781.0 || 573.0 || 883.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8739) 372.85123 || 756.2541 || 561.28253 || 869.7254
+
+GROUND TRUTH FOR: coreless_battery00004114
+label: 664.0 || 626.0 || 753.0 || 819.0 || 1
+label: 857.0 || 626.0 || 923.0 || 771.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6373) 639.32855 || 634.0352 || 758.9665 || 773.85046
+
+GROUND TRUTH FOR: core_battery00000594
+label: 549.0 || 673.0 || 614.0 || 772.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001176
+label: 608.0 || 406.0 || 755.0 || 499.0 || 1
+label: 1323.0 || 745.0 || 1504.0 || 846.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9174) 1328.9696 || 753.6274 || 1516.9727 || 847.0657
+2 label: coreless score: tensor(0.8039) 617.2675 || 411.30554 || 738.54474 || 496.65985
+
+GROUND TRUTH FOR: coreless_battery00004766
+label: 1659.0 || 556.0 || 1770.0 || 784.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004293
+label: 319.0 || 651.0 || 450.0 || 824.0 || 1
+
+GROUND TRUTH FOR: core_battery00005108
+label: 479.0 || 376.0 || 553.0 || 470.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6741) 476.14932 || 388.76617 || 537.8115 || 471.9718
+
+GROUND TRUTH FOR: coreless_battery00002425
+label: 153.0 || 600.0 || 292.0 || 750.0 || 1
+PREDICTIONS: 
+1 label: core score: tensor(0.6077) 195.33125 || 346.60056 || 257.4188 || 527.25256
+
+GROUND TRUTH FOR: core_battery00001239
+label: 139.0 || 373.0 || 266.0 || 488.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00004619
+label: 960.0 || 583.0 || 1169.0 || 716.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8177) 931.83685 || 596.7794 || 1178.8319 || 706.90607
+
+GROUND TRUTH FOR: core_battery00005365
+label: 1377.0 || 724.0 || 1518.0 || 877.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8553) 1370.6295 || 746.5119 || 1510.9478 || 877.7138
+
+GROUND TRUTH FOR: coreless_battery00001586
+label: 181.0 || 368.0 || 359.0 || 458.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6173) 179.18588 || 365.96057 || 350.2793 || 465.23956
+
+GROUND TRUTH FOR: core_battery00001363
+label: 1769.0 || 388.0 || 1835.0 || 517.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00003195
+label: 109.0 || 732.0 || 323.0 || 843.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00000941
+label: 79.0 || 857.0 || 269.0 || 942.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7926) 82.86433 || 838.0304 || 253.61952 || 956.53546
+
+GROUND TRUTH FOR: coreless_battery00005194
+label: 1261.0 || 356.0 || 1352.0 || 500.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004493
+label: 1235.0 || 336.0 || 1466.0 || 498.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8620) 1257.3207 || 352.5346 || 1452.5764 || 494.2585
+
+GROUND TRUTH FOR: coreless_battery00002133
+label: 655.0 || 526.0 || 717.0 || 715.0 || 1
+label: 727.0 || 503.0 || 826.0 || 635.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00001081
+label: 39.0 || 597.0 || 122.0 || 796.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7038) 43.23126 || 598.0515 || 104.126656 || 816.4025
+
+GROUND TRUTH FOR: coreless_battery00005230
+label: 109.0 || 406.0 || 238.0 || 570.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8370) 107.90558 || 404.19382 || 232.20967 || 581.139
+
+GROUND TRUTH FOR: coreless_battery00005190
+label: 647.0 || 397.0 || 796.0 || 564.0 || 1
+
+GROUND TRUTH FOR: core_battery00004185
+label: 973.0 || 434.0 || 1118.0 || 613.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00000895
+label: 1583.0 || 809.0 || 1760.0 || 932.0 || 1
+label: 1926.0 || 726.0 || 1991.0 || 873.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9303) 1586.7715 || 820.3997 || 1743.6965 || 936.58075
+
+GROUND TRUTH FOR: core_battery00003471
+label: 1297.0 || 334.0 || 1382.0 || 433.0 || 0
+
+GROUND TRUTH FOR: core_battery00005907
+label: 465.0 || 544.0 || 556.0 || 661.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7211) 464.34198 || 535.03326 || 557.26843 || 646.09424
+
+GROUND TRUTH FOR: core_battery00002366
+label: 65.0 || 746.0 || 185.0 || 842.0 || 0
+
+GROUND TRUTH FOR: core_battery00001025
+label: 592.0 || 443.0 || 729.0 || 606.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002501
+label: 172.0 || 630.0 || 342.0 || 707.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00005553
+label: 813.0 || 530.0 || 953.0 || 716.0 || 1
+
+GROUND TRUTH FOR: core_battery00005796
+label: 57.0 || 617.0 || 110.0 || 847.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8230) 54.581047 || 634.67773 || 103.643005 || 839.23444
+
+GROUND TRUTH FOR: coreless_battery00005769
+label: 150.0 || 791.0 || 333.0 || 893.0 || 1
+
+GROUND TRUTH FOR: core_battery00005013
+label: 234.0 || 522.0 || 385.0 || 591.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001919
+label: 892.0 || 427.0 || 941.0 || 593.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.6405) 263.89706 || 394.96414 || 474.10263 || 528.30066
+
+GROUND TRUTH FOR: coreless_battery00002034
+label: 215.0 || 556.0 || 412.0 || 681.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00004262
+label: 749.0 || 471.0 || 842.0 || 581.0 || 1
+
+GROUND TRUTH FOR: core_battery00002286
+label: 1061.0 || 429.0 || 1189.0 || 535.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7454) 1076.8076 || 442.55084 || 1194.381 || 545.3606
+
+GROUND TRUTH FOR: core_battery00004840
+label: 835.0 || 285.0 || 919.0 || 427.0 || 0
+label: 170.0 || 396.0 || 291.0 || 459.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002833
+label: 229.0 || 712.0 || 358.0 || 849.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8990) 226.21124 || 716.8951 || 362.93982 || 869.4756
+
+GROUND TRUTH FOR: coreless_battery00004335
+label: 389.0 || 347.0 || 554.0 || 433.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8573) 383.2932 || 327.84662 || 552.2753 || 432.72797
+
+GROUND TRUTH FOR: coreless_battery00001458
+label: 260.0 || 437.0 || 428.0 || 527.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8162) 252.7106 || 430.2 || 419.93222 || 520.65796
+
+GROUND TRUTH FOR: coreless_battery00001601
+label: 472.0 || 514.0 || 542.0 || 677.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002658
+label: 613.0 || 321.0 || 782.0 || 399.0 || 1
+label: 86.0 || 390.0 || 292.0 || 478.0 || 1
+
+GROUND TRUTH FOR: core_battery00003842
+label: 266.0 || 587.0 || 456.0 || 715.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8199) 257.84943 || 598.9022 || 455.48248 || 695.8959
+
+GROUND TRUTH FOR: coreless_battery00004124
+label: 323.0 || 545.0 || 459.0 || 706.0 || 1
+
+GROUND TRUTH FOR: core_battery00003921
+label: 670.0 || 367.0 || 863.0 || 548.0 || 0
+label: 549.0 || 563.0 || 662.0 || 668.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8531) 549.0603 || 555.27277 || 663.0289 || 668.65814
+2 label: core score: tensor(0.6513) 746.2892 || 376.63174 || 864.9231 || 497.3741
+
+GROUND TRUTH FOR: coreless_battery00004890
+label: 1116.0 || 327.0 || 1236.0 || 544.0 || 1
+label: 1251.0 || 534.0 || 1345.0 || 660.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6738) 1238.1714 || 531.2549 || 1352.078 || 658.5058
+
+GROUND TRUTH FOR: coreless_battery00003002
+label: 264.0 || 641.0 || 410.0 || 716.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9132) 279.13635 || 622.89746 || 414.44495 || 747.13873
+
+GROUND TRUTH FOR: coreless_battery00004611
+label: 347.0 || 466.0 || 495.0 || 551.0 || 1
+label: 1537.0 || 381.0 || 1753.0 || 506.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.8629) 1553.8608 || 386.76132 || 1749.4921 || 500.2156
+
+GROUND TRUTH FOR: core_battery00005488
+label: 245.0 || 713.0 || 390.0 || 848.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7074) 256.0398 || 725.09467 || 383.3848 || 835.98773
+
+GROUND TRUTH FOR: coreless_battery00004521
+label: 1243.0 || 561.0 || 1383.0 || 738.0 || 1
+
+GROUND TRUTH FOR: core_battery00003071
+label: 846.0 || 500.0 || 886.0 || 625.0 || 0
+
+GROUND TRUTH FOR: core_battery00005882
+label: 208.0 || 474.0 || 362.0 || 632.0 || 0
+
+GROUND TRUTH FOR: core_battery00004757
+label: 676.0 || 793.0 || 866.0 || 897.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8606) 689.0065 || 810.9758 || 875.65753 || 893.9116
+
+GROUND TRUTH FOR: core_battery00001367
+label: 806.0 || 705.0 || 865.0 || 850.0 || 0
+
+GROUND TRUTH FOR: core_battery00000627
+label: 336.0 || 737.0 || 444.0 || 829.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8007) 316.2178 || 726.0003 || 447.04596 || 837.70996
+
+GROUND TRUTH FOR: coreless_battery00002947
+label: 158.0 || 370.0 || 242.0 || 514.0 || 1
+
+GROUND TRUTH FOR: core_battery00002645
+label: 313.0 || 340.0 || 507.0 || 407.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8955) 304.61496 || 322.31818 || 515.27246 || 416.22693
+
+GROUND TRUTH FOR: core_battery00002684
+label: 660.0 || 453.0 || 784.0 || 577.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00001762
+label: 470.0 || 530.0 || 560.0 || 620.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00002116
+label: 710.0 || 591.0 || 866.0 || 693.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.9375) 690.43243 || 584.03235 || 880.6171 || 697.90125
+
+GROUND TRUTH FOR: core_battery00000303
+label: 1031.0 || 712.0 || 1174.0 || 789.0 || 0
+
+GROUND TRUTH FOR: coreless_battery00002651
+label: 145.0 || 347.0 || 340.0 || 432.0 || 1
+label: 600.0 || 343.0 || 735.0 || 486.0 || 1
+label: 1723.0 || 776.0 || 1825.0 || 951.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7479) 161.78969 || 356.25085 || 343.99454 || 453.50873
+
+GROUND TRUTH FOR: core_battery00002214
+label: 58.0 || 653.0 || 176.0 || 766.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8678) 56.608517 || 650.5162 || 172.79637 || 750.9897
+
+GROUND TRUTH FOR: core_battery00003850
+label: 658.0 || 641.0 || 704.0 || 831.0 || 0
+
+GROUND TRUTH FOR: core_battery00001691
+label: 884.0 || 307.0 || 957.0 || 379.0 || 0
+
+GROUND TRUTH FOR: core_battery00000405
+label: 30.0 || 363.0 || 128.0 || 466.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.9302) 26.276329 || 355.68283 || 132.95583 || 483.00726
+
+GROUND TRUTH FOR: coreless_battery00001187
+label: 209.0 || 325.0 || 364.0 || 396.0 || 1
+
+GROUND TRUTH FOR: core_battery00001029
+label: 774.0 || 430.0 || 983.0 || 614.0 || 0
+
+GROUND TRUTH FOR: core_battery00002473
+label: 1102.0 || 447.0 || 1232.0 || 544.0 || 0
+label: 1246.0 || 690.0 || 1305.0 || 758.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.6735) 1101.9618 || 432.1946 || 1241.5 || 555.7065
+
+GROUND TRUTH FOR: coreless_battery00004983
+label: 88.0 || 634.0 || 333.0 || 787.0 || 1
+PREDICTIONS: 
+1 label: coreless score: tensor(0.7142) 121.7297 || 661.06476 || 321.0954 || 774.4726
+
+GROUND TRUTH FOR: coreless_battery00004590
+label: 631.0 || 390.0 || 838.0 || 522.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00000468
+label: 49.0 || 812.0 || 202.0 || 869.0 || 1
+
+GROUND TRUTH FOR: coreless_battery00003824
+label: 406.0 || 805.0 || 567.0 || 892.0 || 1
+
+GROUND TRUTH FOR: core_battery00002646
+label: 34.0 || 733.0 || 155.0 || 856.0 || 0
+label: 692.0 || 558.0 || 793.0 || 645.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.8557) 39.20769 || 735.98376 || 151.68002 || 860.9957
+2 label: core score: tensor(0.8122) 696.619 || 537.1706 || 808.1189 || 650.97614
+
+GROUND TRUTH FOR: core_battery00001364
+label: 675.0 || 673.0 || 804.0 || 775.0 || 0
+
+GROUND TRUTH FOR: core_battery00003290
+label: 366.0 || 358.0 || 440.0 || 551.0 || 0
+PREDICTIONS: 
+1 label: core score: tensor(0.7846) 365.70297 || 354.39026 || 440.10773 || 555.636

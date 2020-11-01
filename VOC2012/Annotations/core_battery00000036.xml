@@ -1,0 +1,29 @@
+<annotation>
+  <folder>VOC2012</folder>
+  <filename>core_battery00000036.jpg</filename>
+  <size>
+    <width>2000</width>
+    <height>1040</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>core</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1495</xmin>
+      <ymin>793</ymin>
+      <xmax>1683</xmax>
+      <ymax>869</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>core</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1834</xmin>
+      <ymin>683</ymin>
+      <xmax>1927</xmax>
+      <ymax>768</ymax>
+    </bndbox>
+  </object>
+</annotation>
